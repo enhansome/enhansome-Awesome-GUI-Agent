@@ -1,0 +1,445 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-27T13:12:11Z",
+            "owner": "Alibaba-NLP",
+            "repo": "DeepResearch",
+            "stars": 19826
+          }
+        }
+      ],
+      "title": "Datasets / Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning",
+          "description": "(Jun., 2025)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-11T08:24:15Z",
+            "owner": "OpenBMB",
+            "repo": "AgentCPM-GUI",
+            "stars": 1406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CogAgent v2",
+          "description": "(Dec. 2024)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-04T13:29:55Z",
+            "owner": "zai-org",
+            "repo": "CogAgent",
+            "stars": 1192
+          }
+        }
+      ],
+      "title": "Models / Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use",
+          "description": "(Dec. 2024)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-16T07:10:15Z",
+            "owner": "OS-Agent-Survey",
+            "repo": "OS-Agent-Survey",
+            "stars": 486
+          }
+        }
+      ],
+      "title": "Surveys"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Auto-GPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T00:00:07Z",
+            "owner": "Significant-Gravitas",
+            "repo": "AutoGPT",
+            "stars": 186593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Interpreter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T19:04:44Z",
+            "owner": "openinterpreter",
+            "repo": "openinterpreter",
+            "stars": 68008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T06:56:46Z",
+            "owner": "wandb",
+            "repo": "openui",
+            "stars": 22502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mobile-Agent: The Powerful Mobile Device Operation Assistant Family",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-07T09:22:18Z",
+            "owner": "X-PLUG",
+            "repo": "MobileAgent",
+            "stars": 9076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gpt-computer-assistant",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T14:55:50Z",
+            "owner": "Upsonic",
+            "repo": "Upsonic",
+            "stars": 7938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaVague: Large Action Model Framework to Develop AI Web Agents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-21T13:41:48Z",
+            "owner": "lavague-ai",
+            "repo": "LaVague",
+            "stars": 6386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Computer Use Out-of-the-box",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-21T14:27:44Z",
+            "owner": "showlab",
+            "repo": "computer_use_ootb",
+            "stars": 1962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NatBot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-09T06:47:38Z",
+            "owner": "nat",
+            "repo": "natbot",
+            "stars": 1932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAdapt: AI-First Process Automation with Large Multimodal Models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:24:18Z",
+            "owner": "OpenAdaptAI",
+            "repo": "OpenAdapt",
+            "stars": 1679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebLlama",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-10T16:44:00Z",
+            "owner": "McGill-NLP",
+            "repo": "webllama",
+            "stars": 1402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT-4V-Act: AI agent using GPT-4V(ision) for web UI interaction",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-09T17:48:09Z",
+            "owner": "ddupont808",
+            "repo": "GPT-4V-Act",
+            "stars": 1059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Surfkit: A toolkit for building and sharing AI agents that operate on devices",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-26T22:58:18Z",
+            "owner": "agentsea",
+            "repo": "surfkit",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AGI Computer Control",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T09:30:56Z",
+            "owner": "James4Ever0",
+            "repo": "agi_computer_control",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebMarker: Mark web pages for use with vision-language models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-08T20:06:41Z",
+            "owner": "reidbarber",
+            "repo": "webmarker",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Adversarial Attacks on Multimodal Agents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-19T18:11:53Z",
+            "owner": "ChenWu98",
+            "repo": "agent-attack",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-05T22:44:57Z",
+            "owner": "OSU-NLP-Group",
+            "repo": "WebDreamer",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T22:27:00Z",
+            "owner": "OSU-NLP-Group",
+            "repo": "EIA_against_webagent",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-28T04:47:03Z",
+            "owner": "jylee425",
+            "repo": "mobilesafetybench",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-28T06:45:52Z",
+            "owner": "AI-secure",
+            "repo": "AdvAgent",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Safety"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-llm-powered-agent",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-30T03:42:08Z",
+            "owner": "hyp1231",
+            "repo": "awesome-llm-powered-agent",
+            "stars": 2254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome GUI Agent Paper List",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T23:24:51Z",
+            "owner": "OSU-NLP-Group",
+            "repo": "GUI-Agents-Paper-List",
+            "stars": 882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ui-agents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-17T08:12:17Z",
+            "owner": "opendilab",
+            "repo": "awesome-ui-agents",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-LLM-based-Web-Agent-and-Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-25T08:45:49Z",
+            "owner": "chenzixuan99",
+            "repo": "Awesome-LLM-based-Web-Agent-and-Tools",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "computer-control-agent-knowledge-base",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-27T07:07:13Z",
+            "owner": "James4Ever0",
+            "repo": "computer_control_agent_knowledge_base",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Related Repositories"
+    },
+    {
+      "description": "This template is provided by Awesome-Video-Diffusion and Awesome-MLLM-Hallucination.",
+      "items": [],
+      "title": "Acknowledgements"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T00:09:31.663Z",
+    "original_repository": "showlab/Awesome-GUI-Agent",
+    "original_repository_sha": "25b01b452791bdb41f3467d3ea4cfe3388266c73",
+    "enhanced_repository": "enhansome/enhansome-Awesome-GUI-Agent",
+    "enhanced_repository_description": null,
+    "title": "Awesome GUI Agent with stars"
+  }
+}
