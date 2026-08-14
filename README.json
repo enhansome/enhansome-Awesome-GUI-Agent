@@ -14,7 +14,7 @@
             "last_commit": "2026-02-27T13:12:11Z",
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19826
+            "stars": 19827
           }
         }
       ],
@@ -34,7 +34,7 @@
             "last_commit": "2026-01-11T08:24:15Z",
             "owner": "OpenBMB",
             "repo": "AgentCPM-GUI",
-            "stars": 1406
+            "stars": 1404
           }
         },
         {
@@ -68,7 +68,7 @@
             "last_commit": "2025-08-16T07:10:15Z",
             "owner": "OS-Agent-Survey",
             "repo": "OS-Agent-Survey",
-            "stars": 486
+            "stars": 487
           }
         }
       ],
@@ -85,10 +85,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T00:00:07Z",
+            "last_commit": "2026-08-14T23:43:44Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186593
+            "stars": 186615
           }
         },
         {
@@ -99,10 +99,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-08T19:04:44Z",
+            "last_commit": "2026-08-14T22:48:00Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68008
+            "stars": 68012
           }
         },
         {
@@ -113,10 +113,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-05T06:56:46Z",
+            "last_commit": "2026-08-14T06:32:28Z",
             "owner": "wandb",
             "repo": "openui",
-            "stars": 22502
+            "stars": 22504
           }
         },
         {
@@ -130,7 +130,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9076
+            "stars": 9082
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2025-01-21T13:41:48Z",
             "owner": "lavague-ai",
             "repo": "LaVague",
-            "stars": 6386
+            "stars": 6385
           }
         },
         {
@@ -172,7 +172,7 @@
             "last_commit": "2025-05-21T14:27:44Z",
             "owner": "showlab",
             "repo": "computer_use_ootb",
-            "stars": 1962
+            "stars": 1961
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2026-08-12T10:24:18Z",
             "owner": "OpenAdaptAI",
             "repo": "OpenAdapt",
-            "stars": 1679
+            "stars": 1682
           }
         },
         {
@@ -377,7 +377,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T23:24:51Z",
+            "last_commit": "2026-08-14T05:59:48Z",
             "owner": "OSU-NLP-Group",
             "repo": "GUI-Agents-Paper-List",
             "stars": 882
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:09:31.663Z",
+    "last_updated": "2026-08-14T23:50:48.044Z",
     "original_repository": "showlab/Awesome-GUI-Agent",
     "original_repository_sha": "25b01b452791bdb41f3467d3ea4cfe3388266c73",
     "enhanced_repository": "enhansome/enhansome-Awesome-GUI-Agent",
