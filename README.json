@@ -14,7 +14,7 @@
             "last_commit": "2026-02-27T13:12:11Z",
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19831
+            "stars": 19832
           }
         }
       ],
@@ -85,10 +85,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T17:35:04Z",
+            "last_commit": "2026-08-16T23:31:00Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186623
+            "stars": 186646
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-08-15T11:38:29Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68023
+            "stars": 68036
           }
         },
         {
@@ -116,7 +116,7 @@
             "last_commit": "2026-08-14T06:32:28Z",
             "owner": "wandb",
             "repo": "openui",
-            "stars": 22508
+            "stars": 22504
           }
         },
         {
@@ -130,7 +130,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9084
+            "stars": 9086
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2026-06-18T14:55:50Z",
             "owner": "Upsonic",
             "repo": "Upsonic",
-            "stars": 7939
+            "stars": 7940
           }
         },
         {
@@ -211,7 +211,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2024-12-10T16:44:00Z",
+            "last_commit": "2026-08-16T18:12:12Z",
             "owner": "McGill-NLP",
             "repo": "webllama",
             "stars": 1402
@@ -377,10 +377,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T05:59:48Z",
+            "last_commit": "2026-08-16T16:33:13Z",
             "owner": "OSU-NLP-Group",
             "repo": "GUI-Agents-Paper-List",
-            "stars": 884
+            "stars": 885
           }
         },
         {
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:47:44.551Z",
+    "last_updated": "2026-08-16T23:47:58.774Z",
     "original_repository": "showlab/Awesome-GUI-Agent",
     "original_repository_sha": "25b01b452791bdb41f3467d3ea4cfe3388266c73",
     "enhanced_repository": "enhansome/enhansome-Awesome-GUI-Agent",
