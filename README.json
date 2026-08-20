@@ -15,7 +15,7 @@
             "last_commit": "2026-02-27T13:12:11Z",
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19851
+            "stars": 19856
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2025-04-04T13:29:55Z",
             "owner": "zai-org",
             "repo": "CogAgent",
-            "stars": 1192
+            "stars": 1193
           }
         }
       ],
@@ -90,10 +90,10 @@
             "archived": false,
             "id": 614765452,
             "language": "Python",
-            "last_commit": "2026-08-19T23:37:43Z",
+            "last_commit": "2026-08-20T23:48:45Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186689
+            "stars": 186688
           }
         },
         {
@@ -105,10 +105,10 @@
             "archived": false,
             "id": 666299222,
             "language": "Rust",
-            "last_commit": "2026-08-19T23:09:14Z",
+            "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68078
+            "stars": 68085
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-14T06:32:28Z",
             "owner": "wandb",
             "repo": "openui",
-            "stars": 22510
+            "stars": 22514
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9104
+            "stars": 9107
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-06-18T14:55:50Z",
             "owner": "Upsonic",
             "repo": "Upsonic",
-            "stars": 7940
+            "stars": 7942
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2025-01-21T13:41:48Z",
             "owner": "lavague-ai",
             "repo": "LaVague",
-            "stars": 6387
+            "stars": 6388
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2025-05-21T14:27:44Z",
             "owner": "showlab",
             "repo": "computer_use_ootb",
-            "stars": 1961
+            "stars": 1960
           }
         },
         {
@@ -210,10 +210,10 @@
             "archived": false,
             "id": 627024850,
             "language": "Python",
-            "last_commit": "2026-08-19T22:34:56Z",
+            "last_commit": "2026-08-20T16:29:06Z",
             "owner": "OpenAdaptAI",
             "repo": "OpenAdapt",
-            "stars": 1688
+            "stars": 1690
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2024-12-09T17:48:09Z",
             "owner": "ddupont808",
             "repo": "GPT-4V-Act",
-            "stars": 1058
+            "stars": 1059
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2025-04-30T03:42:08Z",
             "owner": "hyp1231",
             "repo": "awesome-llm-powered-agent",
-            "stars": 2254
+            "stars": 2253
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-08-17T20:02:02Z",
             "owner": "OSU-NLP-Group",
             "repo": "GUI-Agents-Paper-List",
-            "stars": 886
+            "stars": 887
           }
         },
         {
@@ -458,7 +458,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:49:51.342Z",
+    "last_updated": "2026-08-20T23:52:05.593Z",
     "original_repository": "showlab/Awesome-GUI-Agent",
     "original_repository_id": 821475246,
     "original_repository_sha": "25b01b452791bdb41f3467d3ea4cfe3388266c73",
