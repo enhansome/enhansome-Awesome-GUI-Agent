@@ -15,7 +15,7 @@
             "last_commit": "2026-02-27T13:12:11Z",
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19858
+            "stars": 19863
           }
         }
       ],
@@ -36,7 +36,7 @@
             "last_commit": "2026-01-11T08:24:15Z",
             "owner": "OpenBMB",
             "repo": "AgentCPM-GUI",
-            "stars": 1406
+            "stars": 1407
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2025-04-04T13:29:55Z",
             "owner": "zai-org",
             "repo": "CogAgent",
-            "stars": 1194
+            "stars": 1193
           }
         }
       ],
@@ -90,10 +90,10 @@
             "archived": false,
             "id": 614765452,
             "language": "Python",
-            "last_commit": "2026-08-21T22:56:45Z",
+            "last_commit": "2026-08-22T14:16:44Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186725
+            "stars": 186772
           }
         },
         {
@@ -108,7 +108,7 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68100
+            "stars": 68115
           }
         },
         {
@@ -120,7 +120,7 @@
             "archived": false,
             "id": 773544702,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T06:32:28Z",
+            "last_commit": "2026-08-22T06:10:22Z",
             "owner": "wandb",
             "repo": "openui",
             "stars": 22517
@@ -138,7 +138,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9115
+            "stars": 9116
           }
         },
         {
@@ -210,10 +210,10 @@
             "archived": false,
             "id": 627024850,
             "language": "Python",
-            "last_commit": "2026-08-20T16:29:06Z",
+            "last_commit": "2026-08-22T23:35:48Z",
             "owner": "OpenAdaptAI",
             "repo": "OpenAdapt",
-            "stars": 1692
+            "stars": 1693
           }
         },
         {
@@ -458,7 +458,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:50:48.652Z",
+    "last_updated": "2026-08-22T23:48:06.469Z",
     "original_repository": "showlab/Awesome-GUI-Agent",
     "original_repository_id": 821475246,
     "original_repository_sha": "25b01b452791bdb41f3467d3ea4cfe3388266c73",
