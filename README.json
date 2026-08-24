@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38611
+            "stars": 38613
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38611
+            "stars": 38613
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-02-27T13:12:11Z",
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19870
+            "stars": 19872
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T09:11:07Z",
             "owner": "xlang-ai",
             "repo": "OSWorld",
-            "stars": 3102
+            "stars": 3103
           }
         },
         {
@@ -621,7 +621,7 @@
             "last_commit": "2026-08-01T03:31:09Z",
             "owner": "simular-ai",
             "repo": "Agent-S",
-            "stars": 12188
+            "stars": 12189
           }
         },
         {
@@ -636,7 +636,7 @@
             "last_commit": "2026-08-24T13:00:27Z",
             "owner": "microsoft",
             "repo": "UFO",
-            "stars": 9546
+            "stars": 9548
           }
         },
         {
@@ -651,7 +651,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9120
+            "stars": 9122
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2025-03-19T11:01:38Z",
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6858
+            "stars": 6859
           }
         },
         {
@@ -936,7 +936,7 @@
             "last_commit": "2025-12-22T22:42:30Z",
             "owner": "zorazrw",
             "repo": "agent-workflow-memory",
-            "stars": 460
+            "stars": 461
           }
         },
         {
@@ -1320,10 +1320,10 @@
             "archived": false,
             "id": 614765452,
             "language": "Python",
-            "last_commit": "2026-08-24T13:56:37Z",
+            "last_commit": "2026-08-24T19:12:39Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186849
+            "stars": 186852
           }
         },
         {
@@ -1338,7 +1338,7 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68131
+            "stars": 68137
           }
         },
         {
@@ -1353,7 +1353,7 @@
             "last_commit": "2026-08-22T06:10:22Z",
             "owner": "wandb",
             "repo": "openui",
-            "stars": 22515
+            "stars": 22514
           }
         },
         {
@@ -1383,7 +1383,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9120
+            "stars": 9122
           }
         },
         {
@@ -1458,7 +1458,7 @@
             "last_commit": "2024-06-09T06:47:38Z",
             "owner": "nat",
             "repo": "natbot",
-            "stars": 1932
+            "stars": 1933
           }
         },
         {
@@ -1718,7 +1718,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:43.365Z",
+    "last_updated": "2026-08-24T23:49:09.817Z",
     "original_repository": "showlab/Awesome-GUI-Agent",
     "original_repository_id": 821475246,
     "original_repository_sha": "25b01b452791bdb41f3467d3ea4cfe3388266c73",
