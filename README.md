@@ -37,11 +37,230 @@ So then you can easily copy and use this information in your pull requests.
 
 ## Datasets / Benchmarks
 
-* [WebWalker: Benchmarking LLMs in Web Traversal](https://github.com/Alibaba-nlp/WebWalker) ⭐ 19,871 | 🐛 92 | 🌐 Python | 📅 2026-02-27
+* [Android in the Wild: A Large-Scale Dataset for Android Device Control](https://arxiv.org/abs/2307.10088) (Jul. 2023)
 
-  [![Star](https://img.shields.io/github/stars/Alibaba-nlp/WebWalker.svg?style=social\&label=Star)](https://github.com/Alibaba-nlp/WebWalker) ⭐ 19,871 | 🐛 92 | 🌐 Python | 📅 2026-02-27
+  [![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social\&label=Star)](https://github.com/google-research/google-research/tree/master/android_in_the_wild) ⭐ 38,611 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.10088)
+
+* [On the Effects of Data Scale on Computer Control Agents](https://arxiv.org/abs/2406.03679) (Jun. 2024)
+
+  [![Star](https://img.shields.io/github/stars/google-research/google-research)](https://github.com/google-research/google-research/tree/master/android_control) ⭐ 38,611 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.03679)
+
+* [WebWalker: Benchmarking LLMs in Web Traversal](https://github.com/Alibaba-nlp/WebWalker) ⭐ 19,870 | 🐛 92 | 🌐 Python | 📅 2026-02-27
+
+  [![Star](https://img.shields.io/github/stars/Alibaba-nlp/WebWalker.svg?style=social\&label=Star)](https://github.com/Alibaba-nlp/WebWalker) ⭐ 19,870 | 🐛 92 | 🌐 Python | 📅 2026-02-27
   [![Website](https://img.shields.io/badge/Website-9cf)](https://alibaba-nlp.github.io/WebWalker/)
   [![PDF](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/pdf/2501.07572)
+
+* [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972) (Apr. 2024)
+
+  [![Star](https://img.shields.io/github/stars/xlang-ai/OSWorld.svg?style=social\&label=Star)](https://github.com/xlang-ai/OSWorld) ⭐ 3,102 | 🐛 197 | 🌐 Python | 📅 2026-08-21
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.07972)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://os-world.github.io/)
+
+* [WebArena: A Realistic Web Environment for Building Autonomous Agents](https://arxiv.org/abs/2307.13854) (Jul. 2023)
+
+  [![Star](https://img.shields.io/github/stars/web-arena-x/webarena.svg?style=social\&label=Star)](https://github.com/web-arena-x/webarena) ⭐ 1,586 | 🐛 101 | 🌐 Python | 📅 2025-11-26
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.13854)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://webarena.dev/)
+
+* [AndroidEnv: A Reinforcement Learning Platform for Android](https://arxiv.org/abs/2105.13231) (May. 2021)
+
+  [![Star](https://img.shields.io/github/stars/deepmind/android_env.svg?style=social\&label=Star)](https://github.com/deepmind/android_env) ⭐ 1,239 | 🐛 13 | 🌐 Python | 📅 2026-07-31
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2105.13231)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/deepmind/android_env) ⭐ 1,239 | 🐛 13 | 🌐 Python | 📅 2026-07-31
+
+* [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/abs/2306.06070) (Jun. 2023)
+
+  [![Star](https://img.shields.io/github/stars/osu-nlp-group/mind2web.svg?style=social\&label=Star)](https://github.com/osu-nlp-group/mind2web) ⭐ 1,021 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-11-05
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.06070)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://osu-nlp-group.github.io/Mind2Web/)
+
+* [Windows Agent Arena](https://raw.githubusercontent.com/microsoft/WindowsAgentArena/website/static/files/windows_agent_arena.pdf)
+
+  [![Star](https://img.shields.io/github/stars/microsoft/WindowsAgentArena.svg?style=social\&label=Star)](https://github.com/microsoft/WindowsAgentArena) ⭐ 887 | 🐛 36 | 🌐 Python | 📅 2026-04-13
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://microsoft.github.io/WindowsAgentArena/)
+  [![PDF](https://img.shields.io/badge/PDF-4285f4.svg)](https://raw.githubusercontent.com/microsoft/WindowsAgentArena/website/static/files/windows_agent_arena.pdf)
+
+* [AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents](https://arxiv.org/abs/2405.14573) (Jun. 2024)
+
+  [![Star](https://img.shields.io/github/stars/google-research/android_world.svg?style=social\&label=Star)](https://github.com/google-research/android_world) ⭐ 855 | 🐛 47 | 🌐 Python | 📅 2026-07-16
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.14573)
+
+* [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://arxiv.org/abs/2207.01206) (Jul. 2022)
+
+  [![Star](https://img.shields.io/github/stars/princeton-nlp/WebShop.svg?style=social\&label=Star)](https://github.com/princeton-nlp/WebShop) ⭐ 586 | 🐛 18 | 🌐 Python | 📅 2024-09-06
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.01206)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://webshop-pnlp.github.io/)
+
+* [CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents](https://arxiv.org/abs/2407.01511) (Jul. 2024)
+
+  [![Star](https://img.shields.io/github/stars/camel-ai/crab.svg?style=social\&label=Star)](https://github.com/camel-ai/crab) ⭐ 426 | 🐛 38 | 🌐 Python | 📅 2026-08-14
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01511)
+
+* [ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use](https://likaixin2000.github.io/papers/ScreenSpot_Pro.pdf)
+
+  [![Star](https://img.shields.io/github/stars/likaixin2000/ScreenSpot-Pro-GUI-Grounding.svg?style=social\&label=Star)](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding) ⭐ 390 | 🐛 6 | 🌐 Python | 📅 2026-06-17
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://gui-agent.github.io/grounding-leaderboard/)
+  [![PDF](https://img.shields.io/badge/Paper-PDF-red)](https://likaixin2000.github.io/papers/ScreenSpot_Pro.pdf)
+
+* [Language Models can Solve Computer Tasks](https://arxiv.org/abs/2303.17491) (Mar. 2023)
+
+  [![Star](https://img.shields.io/github/stars/posgnu/rci-agent.svg?style=social\&label=Star)](https://github.com/posgnu/rci-agent) ⭐ 240 | 🐛 2 | 🌐 HTML | 📅 2024-05-01
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17491)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://posgnu.github.io/rci-web/)
+
+* [WebLINX: Real-World Website Navigation with Multi-Turn Dialogue](https://arxiv.org/abs/2402.05930) (Feb. 2024)
+
+  [![Star](https://img.shields.io/github/stars/mcgill-nlp/weblinx.svg?style=social\&label=Star)](https://github.com/mcgill-nlp/weblinx) ⭐ 163 | 🐛 1 | 🌐 Python | 📅 2026-08-16
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.05930)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mcgill-nlp.github.io/weblinx/)
+
+* [GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices](https://arxiv.org/abs/2406.08451) (Jun. 2024)
+
+  [![Star](https://img.shields.io/github/stars/OpenGVLab/GUI-Odyssey.svg?style=social\&label=Star)](https://github.com/OpenGVLab/GUI-Odyssey) ⭐ 160 | 🐛 10 | 🌐 Python | 📅 2026-01-03
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08451)
+
+* [Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?](https://arxiv.org/abs/2407.10956) (Jul. 2024)
+
+  [![Star](https://img.shields.io/github/stars/xlang-ai/Spider2-V.svg?style=social\&label=Star)](https://github.com/xlang-ai/Spider2-V) ⭐ 153 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-08-26
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10956)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://spider2-v.github.io/)
+
+* [Autonomous Evaluation and Refinement of Digital Agents](https://arxiv.org/abs/2404.06474) (Apr. 2024)
+
+  [![Star](https://img.shields.io/github/stars/Berkeley-NLP/Agent-Eval-Refine.svg?style=social\&label=Star)](https://github.com/Berkeley-NLP/Agent-Eval-Refine) ⭐ 149 | 🐛 0 | 🌐 Python | 📅 2024-11-26
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.06474)
+
+* [GUICourse: From General Vision Language Models to Versatile GUI Agents](https://arxiv.org/abs/2406.11317) (Jun. 2024)
+
+  [![Star](https://img.shields.io/github/stars/yiye3/GUICourse.svg?style=social\&label=Star)](https://github.com/yiye3/GUICourse) ⭐ 142 | 🐛 16 | 🌐 Python | 📅 2026-03-01
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11317)
+
+* [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897) (May. 2025)
+
+  [![Star](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard.svg?style=social\&label=Star)](https://github.com/OS-Copilot/ScienceBoard) ⭐ 137 | 🐛 7 | 🌐 Python | 📅 2026-02-02
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.19897)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://qiushisun.github.io/ScienceBoard-Home/)
+
+* [WorldGUI: Dynamic Testing for Comprehensive Desktop GUI Automation](https://arxiv.org/abs/2502.08047) (Feb. 2025)
+
+  [![Star](https://img.shields.io/github/stars/showlab/WorldGUI.svg?style=social\&label=Star)](https://github.com/showlab/GUI-Thinker) ⭐ 125 | 🐛 2 | 🌐 Python | 📅 2025-07-27
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08047)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/GUI-Thinker/)
+
+* [Reinforcement Learning on Web Interfaces using Workflow-Guided Exploration](https://arxiv.org/abs/1802.08802) (Feb. 2018, ICLR 2018)
+
+  [![Star](https://img.shields.io/github/stars/stanfordnlp/wge.svg?style=social\&label=Star)](https://github.com/stanfordnlp/wge) ⭐ 118 | 🐛 3 | 🌐 Python | 📅 2023-06-05
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1802.08802)
+
+* [Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models](https://arxiv.org/abs/2311.09278) (Nov. 2023)
+
+  [![Star](https://img.shields.io/github/stars/xufangzhi/ENVISIONS.svg?style=social\&label=Star)](https://github.com/xufangzhi/ENVISIONS) ⭐ 117 | 🐛 0 | 🌐 C | 📅 2025-06-01
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.09278)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://xufangzhi.github.io/symbol-llm-page/)
+
+* [LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Automation Task Evaluation](https://arxiv.org/abs/2404.16054) (Apr. 2024)
+
+  [![Star](https://img.shields.io/github/stars/LlamaTouch/LlamaTouch.svg?style=social\&label=Star)](https://github.com/LlamaTouch/LlamaTouch) ⭐ 70 | 🐛 0 | 🌐 Python | 📅 2024-08-09
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16054)
+
+* [GUI-WORLD: A Dataset for GUI-oriented Multimodal LLM-based Agents](https://arxiv.org/abs/2406.10819) (Jun. 2024)
+
+  [![Star](https://img.shields.io/github/stars/Dongping-Chen/GUI-World.svg?style=social\&label=Star)](https://github.com/Dongping-Chen/GUI-World) ⭐ 69 | 🐛 2 | 🌐 Python | 📅 2026-08-02
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.10819)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://gui-world.github.io/)
+
+* [Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction](https://arxiv.org/abs/2305.08144) (May. 2023)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.08144)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=social\&logo=github)](https://github.com/X-LANCE/Mobile-Env) ⭐ 64 | 🐛 1 | 🌐 Python | 📅 2025-09-24
+
+* [MMInA: Benchmarking Multihop Multimodal Internet Agents](https://arxiv.org/abs/2404.09992) (Apr. 2024)
+
+  [![Star](https://img.shields.io/github/stars/shulin16/MMInA.svg?style=social\&label=Star)](https://github.com/shulin16/MMInA) ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2025-02-27
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.09992)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mmina.cliangyu.com)
+
+* [Harnessing Webpage UIs for Text-Rich Visual Understanding](https://arxiv.org/abs/2410.13824) (Oct, 2024)
+
+  [![Star](https://img.shields.io/github/stars/neulab/multiui.svg?style=social\&label=Star)](https://github.com/neulab/multiui) ⭐ 54 | 🐛 3 | 🌐 Python | 📅 2024-12-12
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://neulab.github.io/MultiUI/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://neulab.github.io/MultiUI/)
+
+* [VideoGUI: A Benchmark for GUI Automation from Instructional Videos](https://arxiv.org/abs/2406.10227) (Jun. 2024)
+
+  [![Star](https://img.shields.io/github/stars/showlab/videogui.svg?style=social\&label=Star)](https://github.com/showlab/videogui) ⭐ 53 | 🐛 2 | 🌐 JavaScript | 📅 2026-02-22
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.10227)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/videogui/)
+
+* [LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark](https://arxiv.org/abs/2504.13805) (Apr. 2025)
+
+  [![Star](https://img.shields.io/github/stars/lgy0404/LearnAct.svg?style=social\&label=Star)](https://github.com/lgy0404/LearnAct) ⭐ 48 | 🐛 7 | 🌐 Python | 📅 2026-04-18
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13805)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://lgy0404.github.io/LearnAct/)
+
+* [MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents](https://arxiv.org/abs/2406.08184) (Jun. 2024)
+
+  [![Star](https://img.shields.io/github/stars/MobileAgentBench/mobile-agent-bench.svg?style=social\&label=Star)](https://github.com/MobileAgentBench/mobile-agent-bench) ⭐ 37 | 🐛 2 | 🌐 Python | 📅 2024-09-30
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08184)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mobileagentbench.github.io)
+
+* [WebVLN: Vision-and-Language Navigation on Websites](https://ojs.aaai.org/index.php/AAAI/article/view/27878) (AAAI 2024)
+
+  [![Star](https://img.shields.io/github/stars/WebVLN/WebVLN.svg?style=social\&label=Star)](https://github.com/WebVLN/WebVLN) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2024-01-02
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/27878)
+
+* [Benchmarking Mobile Device Control Agents across Diverse Configurations](https://arxiv.org/abs/2404.16660) (Apr. 2024, ICLR 2024)
+
+  [![Star](https://img.shields.io/github/stars/gimme1dollar/b-moca.svg?style=social\&label=Star)](https://github.com/gimme1dollar/b-moca) ⭐ 34 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-21
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16660)
+
+* [MONDAY: Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents](https://arxiv.org/abs/2505.12632) (May., 2025, CVPR 2025)
+
+  [![Star](https://img.shields.io/github/stars/runamu/monday.svg?style=social\&label=Star)](https://github.com/runamu/monday) ⭐ 34 | 🐛 2 | 🌐 Python | 📅 2025-06-03
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.12632)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://lgy0404.github.io/LearnAct/)
+
+* [AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents](https://arxiv.org/abs/2407.17490)
+
+  [![Star](https://img.shields.io/github/stars/YuxiangChai/AMEX-codebase.svg?style=social\&label=Star)](https://github.com/YuxiangChai/AMEX-codebase) ⭐ 33 | 🐛 3 | 🌐 Python | 📅 2024-09-27
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.17490)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yuxiangchai.github.io/AMEX/)
+
+* [Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding](https://arxiv.org/abs/2406.19263) (Jun. 2024)
+
+  [![Star](https://img.shields.io/github/stars/eric-ai-lab/Screen-Point-and-Read.svg?style=social\&label=Star)](https://github.com/eric-ai-lab/Screen-Point-and-Read) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-05-12
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19263)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://screen-point-and-read.github.io/)
+
+* [AssistGUI: Task-Oriented Desktop Graphical User Interface Automation](https://arxiv.org/abs/2401.07781) (Dec. 2023, CVPR 2024)
+
+  [![Star](https://img.shields.io/github/stars/showlab/assistgui.svg?style=social\&label=Star)](https://github.com/showlab/assistgui) ⭐ 30 | 🐛 2 | 🌐 JavaScript | 📅 2024-04-16
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.07781)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/assistgui/)
+
+* [AgentStudio: A Toolkit for Building General Virtual Agents](https://arxiv.org/abs/2403.17918) (Mar. 2024)
+
+  [![Star](https://img.shields.io/github/stars/skyworkai/agent-studio.svg?style=social\&label=Star)](https://github.com/skyworkai/agent-studio) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2024-12-03
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.17918)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://skyworkai.github.io/agent-studio/)
+
+* [On the Multi-turn Instruction Following for Conversational Web Agents](https://arxiv.org/abs/2402.15057) (Feb. 2024)
+
+  [![Star](https://img.shields.io/github/stars/magicgh/self-map.svg?style=social\&label=Star)](https://github.com/magicgh/self-map) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2024-10-12
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15057)
+
+* [Mapping Natural Language Instructions to Mobile UI Action Sequences](https://arxiv.org/abs/2005.03776) (May. 2020, ACL 2020)
+
+  [![Star](https://img.shields.io/github/stars/deepneuralmachine/seq2act-tensorflow.svg?style=social\&label=Star)](https://github.com/deepneuralmachine/seq2act-tensorflow) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2020-07-13
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2005.03776)
+
+* [GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent](https://arxiv.org/abs/2412.18426) (Dec, 2024)
+
+  [![Star](https://img.shields.io/github/stars/ZJU-ACES-ISE/ChatUITest.svg?style=social\&label=Star)](https://github.com/ZJU-ACES-ISE/ChatUITest) ⭐ 14 | 🐛 2 | 📅 2025-01-15
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.18426)
 
 * [World of Bits: An Open-Domain Platform for Web-Based Agents](https://proceedings.mlr.press/v70/shi17a.html) (Aug. 2017, ICML 2017)
 
@@ -55,26 +274,10 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/10.1145/3126594.3126651)
 
-* [Reinforcement Learning on Web Interfaces using Workflow-Guided Exploration](https://arxiv.org/abs/1802.08802) (Feb. 2018, ICLR 2018)
-
-  [![Star](https://img.shields.io/github/stars/stanfordnlp/wge.svg?style=social\&label=Star)](https://github.com/stanfordnlp/wge) ⭐ 118 | 🐛 3 | 🌐 Python | 📅 2023-06-05
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1802.08802)
-
-* [Mapping Natural Language Instructions to Mobile UI Action Sequences](https://arxiv.org/abs/2005.03776) (May. 2020, ACL 2020)
-
-  [![Star](https://img.shields.io/github/stars/deepneuralmachine/seq2act-tensorflow.svg?style=social\&label=Star)](https://github.com/deepneuralmachine/seq2act-tensorflow) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2020-07-13
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2005.03776)
-
 * [WebSRC: A Dataset for Web-Based Structural Reading Comprehension](https://arxiv.org/abs/2101.09465) (Jan. 2021, EMNLP 2021)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2101.09465)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://x-lance.github.io/WebSRC/)
-
-* [AndroidEnv: A Reinforcement Learning Platform for Android](https://arxiv.org/abs/2105.13231) (May. 2021)
-
-  [![Star](https://img.shields.io/github/stars/deepmind/android_env.svg?style=social\&label=Star)](https://github.com/deepmind/android_env) ⭐ 1,239 | 🐛 13 | 🌐 Python | 📅 2026-07-31
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2105.13231)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/deepmind/android_env) ⭐ 1,239 | 🐛 13 | 🌐 Python | 📅 2026-07-31
 
 * [A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility](https://arxiv.org/abs/2202.02312) (Feb. 2022)
 
@@ -84,52 +287,6 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11029)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://x-lance.github.io/META-GUI-Leaderboard/)
-
-* [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://arxiv.org/abs/2207.01206) (Jul. 2022)
-
-  [![Star](https://img.shields.io/github/stars/princeton-nlp/WebShop.svg?style=social\&label=Star)](https://github.com/princeton-nlp/WebShop) ⭐ 584 | 🐛 18 | 🌐 Python | 📅 2024-09-06
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.01206)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://webshop-pnlp.github.io/)
-
-* [Language Models can Solve Computer Tasks](https://arxiv.org/abs/2303.17491) (Mar. 2023)
-
-  [![Star](https://img.shields.io/github/stars/posgnu/rci-agent.svg?style=social\&label=Star)](https://github.com/posgnu/rci-agent) ⭐ 239 | 🐛 2 | 🌐 HTML | 📅 2024-05-01
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17491)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://posgnu.github.io/rci-web/)
-
-* [Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction](https://arxiv.org/abs/2305.08144) (May. 2023)
-
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.08144)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=social\&logo=github)](https://github.com/X-LANCE/Mobile-Env) ⭐ 63 | 🐛 1 | 🌐 Python | 📅 2025-09-24
-
-* [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/abs/2306.06070) (Jun. 2023)
-
-  [![Star](https://img.shields.io/github/stars/osu-nlp-group/mind2web.svg?style=social\&label=Star)](https://github.com/osu-nlp-group/mind2web) ⭐ 1,020 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-11-05
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.06070)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://osu-nlp-group.github.io/Mind2Web/)
-
-* [Android in the Wild: A Large-Scale Dataset for Android Device Control](https://arxiv.org/abs/2307.10088) (Jul. 2023)
-
-  [![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social\&label=Star)](https://github.com/google-research/google-research/tree/master/android_in_the_wild) ⭐ 38,607 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-21
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.10088)
-
-* [WebArena: A Realistic Web Environment for Building Autonomous Agents](https://arxiv.org/abs/2307.13854) (Jul. 2023)
-
-  [![Star](https://img.shields.io/github/stars/web-arena-x/webarena.svg?style=social\&label=Star)](https://github.com/web-arena-x/webarena) ⭐ 1,584 | 🐛 101 | 🌐 Python | 📅 2025-11-26
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.13854)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://webarena.dev/)
-
-* [Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models](https://arxiv.org/abs/2311.09278) (Nov. 2023)
-
-  [![Star](https://img.shields.io/github/stars/xufangzhi/ENVISIONS.svg?style=social\&label=Star)](https://github.com/xufangzhi/ENVISIONS) ⭐ 117 | 🐛 0 | 🌐 C | 📅 2025-06-01
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.09278)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://xufangzhi.github.io/symbol-llm-page/)
-
-* [AssistGUI: Task-Oriented Desktop Graphical User Interface Automation](https://arxiv.org/abs/2401.07781) (Dec. 2023, CVPR 2024)
-
-  [![Star](https://img.shields.io/github/stars/showlab/assistgui.svg?style=social\&label=Star)](https://github.com/showlab/assistgui) ⭐ 30 | 🐛 2 | 🌐 JavaScript | 📅 2024-04-16
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.07781)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/assistgui/)
 
 * [VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks](https://arxiv.org/abs/2401.13649) (Jan. 2024, ACL 2024)
 
@@ -141,92 +298,9 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17553)
 
-* [WebLINX: Real-World Website Navigation with Multi-Turn Dialogue](https://arxiv.org/abs/2402.05930) (Feb. 2024)
-
-  [![Star](https://img.shields.io/github/stars/mcgill-nlp/weblinx.svg?style=social\&label=Star)](https://github.com/mcgill-nlp/weblinx) ⭐ 163 | 🐛 1 | 🌐 Python | 📅 2026-08-16
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.05930)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://mcgill-nlp.github.io/weblinx/)
-
-* [On the Multi-turn Instruction Following for Conversational Web Agents](https://arxiv.org/abs/2402.15057) (Feb. 2024)
-
-  [![Star](https://img.shields.io/github/stars/magicgh/self-map.svg?style=social\&label=Star)](https://github.com/magicgh/self-map) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2024-10-12
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15057)
-
-* [AgentStudio: A Toolkit for Building General Virtual Agents](https://arxiv.org/abs/2403.17918) (Mar. 2024)
-
-  [![Star](https://img.shields.io/github/stars/skyworkai/agent-studio.svg?style=social\&label=Star)](https://github.com/skyworkai/agent-studio) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2024-12-03
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.17918)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://skyworkai.github.io/agent-studio/)
-
-* [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972) (Apr. 2024)
-
-  [![Star](https://img.shields.io/github/stars/xlang-ai/OSWorld.svg?style=social\&label=Star)](https://github.com/xlang-ai/OSWorld) ⭐ 3,102 | 🐛 197 | 🌐 Python | 📅 2026-08-21
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.07972)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://os-world.github.io/)
-
-* [Benchmarking Mobile Device Control Agents across Diverse Configurations](https://arxiv.org/abs/2404.16660) (Apr. 2024, ICLR 2024)
-
-  [![Star](https://img.shields.io/github/stars/gimme1dollar/b-moca.svg?style=social\&label=Star)](https://github.com/gimme1dollar/b-moca) ⭐ 34 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-07-21
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16660)
-
-* [MMInA: Benchmarking Multihop Multimodal Internet Agents](https://arxiv.org/abs/2404.09992) (Apr. 2024)
-
-  [![Star](https://img.shields.io/github/stars/shulin16/MMInA.svg?style=social\&label=Star)](https://github.com/shulin16/MMInA) ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2025-02-27
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.09992)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://mmina.cliangyu.com)
-
-* [Autonomous Evaluation and Refinement of Digital Agents](https://arxiv.org/abs/2404.06474) (Apr. 2024)
-
-  [![Star](https://img.shields.io/github/stars/Berkeley-NLP/Agent-Eval-Refine.svg?style=social\&label=Star)](https://github.com/Berkeley-NLP/Agent-Eval-Refine) ⭐ 149 | 🐛 0 | 🌐 Python | 📅 2024-11-26
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.06474)
-
-* [LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Automation Task Evaluation](https://arxiv.org/abs/2404.16054) (Apr. 2024)
-
-  [![Star](https://img.shields.io/github/stars/LlamaTouch/LlamaTouch.svg?style=social\&label=Star)](https://github.com/LlamaTouch/LlamaTouch) ⭐ 70 | 🐛 0 | 🌐 Python | 📅 2024-08-09
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16054)
-
 * [VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?](https://arxiv.org/abs/2404.05955) (Apr. 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.05955)
-
-* [GUICourse: From General Vision Language Models to Versatile GUI Agents](https://arxiv.org/abs/2406.11317) (Jun. 2024)
-
-  [![Star](https://img.shields.io/github/stars/yiye3/GUICourse.svg?style=social\&label=Star)](https://github.com/yiye3/GUICourse) ⭐ 142 | 🐛 16 | 🌐 Python | 📅 2026-03-01
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11317)
-
-* [GUI-WORLD: A Dataset for GUI-oriented Multimodal LLM-based Agents](https://arxiv.org/abs/2406.10819) (Jun. 2024)
-
-  [![Star](https://img.shields.io/github/stars/Dongping-Chen/GUI-World.svg?style=social\&label=Star)](https://github.com/Dongping-Chen/GUI-World) ⭐ 69 | 🐛 2 | 🌐 Python | 📅 2026-08-02
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.10819)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://gui-world.github.io/)
-
-* [GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices](https://arxiv.org/abs/2406.08451) (Jun. 2024)
-
-  [![Star](https://img.shields.io/github/stars/OpenGVLab/GUI-Odyssey.svg?style=social\&label=Star)](https://github.com/OpenGVLab/GUI-Odyssey) ⭐ 160 | 🐛 10 | 🌐 Python | 📅 2026-01-03
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08451)
-
-* [VideoGUI: A Benchmark for GUI Automation from Instructional Videos](https://arxiv.org/abs/2406.10227) (Jun. 2024)
-
-  [![Star](https://img.shields.io/github/stars/showlab/videogui.svg?style=social\&label=Star)](https://github.com/showlab/videogui) ⭐ 53 | 🐛 2 | 🌐 JavaScript | 📅 2026-02-22
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.10227)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/videogui/)
-
-* [Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding](https://arxiv.org/abs/2406.19263) (Jun. 2024)
-
-  [![Star](https://img.shields.io/github/stars/eric-ai-lab/Screen-Point-and-Read.svg?style=social\&label=Star)](https://github.com/eric-ai-lab/Screen-Point-and-Read) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-05-12
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19263)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://screen-point-and-read.github.io/)
-
-* [MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents](https://arxiv.org/abs/2406.08184) (Jun. 2024)
-
-  [![Star](https://img.shields.io/github/stars/MobileAgentBench/mobile-agent-bench.svg?style=social\&label=Star)](https://github.com/MobileAgentBench/mobile-agent-bench) ⭐ 37 | 🐛 2 | 🌐 Python | 📅 2024-09-30
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08184)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://mobileagentbench.github.io)
-
-* [AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents](https://arxiv.org/abs/2405.14573) (Jun. 2024)
-
-  [![Star](https://img.shields.io/github/stars/google-research/android_world.svg?style=social\&label=Star)](https://github.com/google-research/android_world) ⭐ 855 | 🐛 47 | 🌐 Python | 📅 2026-07-16
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.14573)
 
 * [Practical, Automated Scenario-based Mobile App Testing](https://arxiv.org/abs/2406.08340) (Jun. 2024)
 
@@ -237,89 +311,15 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.12373)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.imean.ai/web-canvas)
 
-* [On the Effects of Data Scale on Computer Control Agents](https://arxiv.org/abs/2406.03679) (Jun. 2024)
-
-  [![Star](https://img.shields.io/github/stars/google-research/google-research)](https://github.com/google-research/google-research/tree/master/android_control) ⭐ 38,607 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-21
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.03679)
-
-* [CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents](https://arxiv.org/abs/2407.01511) (Jul. 2024)
-
-  [![Star](https://img.shields.io/github/stars/camel-ai/crab.svg?style=social\&label=Star)](https://github.com/camel-ai/crab) ⭐ 426 | 🐛 38 | 🌐 Python | 📅 2026-08-14
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01511)
-
-* [WebVLN: Vision-and-Language Navigation on Websites](https://ojs.aaai.org/index.php/AAAI/article/view/27878) (AAAI 2024)
-
-  [![Star](https://img.shields.io/github/stars/WebVLN/WebVLN.svg?style=social\&label=Star)](https://github.com/WebVLN/WebVLN) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2024-01-02
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/27878)
-
-* [Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?](https://arxiv.org/abs/2407.10956) (Jul. 2024)
-
-  [![Star](https://img.shields.io/github/stars/xlang-ai/Spider2-V.svg?style=social\&label=Star)](https://github.com/xlang-ai/Spider2-V) ⭐ 153 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-08-26
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10956)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://spider2-v.github.io/)
-
-* [AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents](https://arxiv.org/abs/2407.17490)
-
-  [![Star](https://img.shields.io/github/stars/YuxiangChai/AMEX-codebase.svg?style=social\&label=Star)](https://github.com/YuxiangChai/AMEX-codebase) ⭐ 33 | 🐛 3 | 🌐 Python | 📅 2024-09-27
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.17490)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://yuxiangchai.github.io/AMEX/)
-
-* [Windows Agent Arena](https://raw.githubusercontent.com/microsoft/WindowsAgentArena/website/static/files/windows_agent_arena.pdf)
-
-  [![Star](https://img.shields.io/github/stars/microsoft/WindowsAgentArena.svg?style=social\&label=Star)](https://github.com/microsoft/WindowsAgentArena) ⭐ 887 | 🐛 36 | 🌐 Python | 📅 2026-04-13
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://microsoft.github.io/WindowsAgentArena/)
-  [![PDF](https://img.shields.io/badge/PDF-4285f4.svg)](https://raw.githubusercontent.com/microsoft/WindowsAgentArena/website/static/files/windows_agent_arena.pdf)
-
-* [Harnessing Webpage UIs for Text-Rich Visual Understanding](https://arxiv.org/abs/2410.13824) (Oct, 2024)
-
-  [![Star](https://img.shields.io/github/stars/neulab/multiui.svg?style=social\&label=Star)](https://github.com/neulab/multiui) ⭐ 54 | 🐛 3 | 🌐 Python | 📅 2024-12-12
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://neulab.github.io/MultiUI/)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://neulab.github.io/MultiUI/)
-
-* [GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent](https://arxiv.org/abs/2412.18426) (Dec, 2024)
-
-  [![Star](https://img.shields.io/github/stars/ZJU-ACES-ISE/ChatUITest.svg?style=social\&label=Star)](https://github.com/ZJU-ACES-ISE/ChatUITest) ⭐ 14 | 🐛 2 | 📅 2025-01-15
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.18426)
-
 * [A3: Android Agent Arena for Mobile GUI Agents](https://arxiv.org/abs/2501.01149) (Jan. 2025)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.01149)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yuxiangchai.github.io/Android-Agent-Arena/)
 
-* [ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use](https://likaixin2000.github.io/papers/ScreenSpot_Pro.pdf)
-
-  [![Star](https://img.shields.io/github/stars/likaixin2000/ScreenSpot-Pro-GUI-Grounding.svg?style=social\&label=Star)](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding) ⭐ 390 | 🐛 6 | 🌐 Python | 📅 2026-06-17
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://gui-agent.github.io/grounding-leaderboard/)
-  [![PDF](https://img.shields.io/badge/Paper-PDF-red)](https://likaixin2000.github.io/papers/ScreenSpot_Pro.pdf)
-
 * [SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation](https://ai-agents-2030.github.io/SPA-Bench/) (ICLR 2025)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.15164)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ai-agents-2030.github.io/SPA-Bench/)
-
-* [WorldGUI: Dynamic Testing for Comprehensive Desktop GUI Automation](https://arxiv.org/abs/2502.08047) (Feb. 2025)
-
-  [![Star](https://img.shields.io/github/stars/showlab/WorldGUI.svg?style=social\&label=Star)](https://github.com/showlab/GUI-Thinker) ⭐ 125 | 🐛 2 | 🌐 Python | 📅 2025-07-27
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08047)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/GUI-Thinker/)
-
-* [LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark](https://arxiv.org/abs/2504.13805) (Apr. 2025)
-
-  [![Star](https://img.shields.io/github/stars/lgy0404/LearnAct.svg?style=social\&label=Star)](https://github.com/lgy0404/LearnAct) ⭐ 48 | 🐛 7 | 🌐 Python | 📅 2026-04-18
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13805)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://lgy0404.github.io/LearnAct/)
-
-* [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897) (May. 2025)
-
-  [![Star](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard.svg?style=social\&label=Star)](https://github.com/OS-Copilot/ScienceBoard) ⭐ 136 | 🐛 7 | 🌐 Python | 📅 2026-02-02
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.19897)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://qiushisun.github.io/ScienceBoard-Home/)
-
-* [MONDAY: Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents](https://arxiv.org/abs/2505.12632) (May., 2025, CVPR 2025)
-
-  [![Star](https://img.shields.io/github/stars/runamu/monday.svg?style=social\&label=Star)](https://github.com/runamu/monday) ⭐ 34 | 🐛 2 | 🌐 Python | 📅 2025-06-03
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.12632)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://lgy0404.github.io/LearnAct/)
 
 * [Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System](https://arxiv.org/abs/2506.08972) (June. 2025)
 
@@ -328,14 +328,248 @@ So then you can easily copy and use this information in your pull requests.
 
 ## Models / Agents
 
+* [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://arxiv.org/abs/2410.08164) (Oct. 2024)
+
+  [![Star](https://img.shields.io/github/stars/simular-ai/Agent-S.svg?style=social\&label=Star)](https://github.com/simular-ai/Agent-S) ⭐ 12,188 | 🐛 41 | 🌐 Python | 📅 2026-08-01
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08164)
+
+* [UFO: A UI-Focused Agent for Windows OS Interaction](https://arxiv.org/abs/2402.07939) (Feb. 2024)
+
+  [![Star](https://img.shields.io/github/stars/microsoft/UFO.svg?style=social\&label=Star)](https://github.com/microsoft/UFO) ⭐ 9,546 | 🐛 78 | 🌐 Python | 📅 2026-08-24
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.07939)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://microsoft.github.io/UFO/)
+
+* [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014) (Jun. 2024)
+
+  [![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social\&label=Star)](https://github.com/X-PLUG/MobileAgent) ⭐ 9,120 | 🐛 195 | 🌐 Python | 📅 2026-07-07
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01014)
+
+* [Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://arxiv.org/abs/2404.05719) (Apr. 2024)
+
+  [![Star](https://img.shields.io/github/stars/apple/ml-ferret.svg?style=social\&label=Star)](https://github.com/apple/ml-ferret) ⭐ 8,674 | 🐛 7 | 🌐 Python | 📅 2024-10-09
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.05719)
+
+* [MindSearch: Mimicking Human Minds Elicits Deep AI Searcher](https://arxiv.org/abs/2407.20183) (Jul. 2023)
+
+  [![Star](https://img.shields.io/github/stars/InternLM/MindSearch.svg?style=social\&label=Star)](https://github.com/InternLM/MindSearch) ⭐ 6,917 | 🐛 57 | 🌐 JavaScript | 📅 2025-07-04
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.20183)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mindsearch.netlify.app/)
+
+* [AppAgent: Multimodal Agents as Smartphone Users](https://arxiv.org/abs/2312.13771) (Dec. 2023)
+
+  [![Star](https://img.shields.io/github/stars/mnotgod96/AppAgent.svg?style=social\&label=Star)](https://github.com/mnotgod96/AppAgent) ⭐ 6,858 | 🐛 99 | 🌐 Python | 📅 2025-03-19
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.13771)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://appagent-official.github.io)
+
+* [CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914) (Dec. 2023, CVPR 2024)
+
+  [![Star](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social\&label=Star)](https://github.com/THUDM/CogVLM) ⭐ 6,743 | 🐛 67 | 🌐 Python | 📅 2024-05-29
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.08914)
+
+* [OpenAgents: AN OPEN PLATFORM FOR LANGUAGE AGENTS IN THE WILD](https://arxiv.org/pdf/2310.10634) (Oct. 2023)
+
+  [![Star](https://img.shields.io/github/stars/xlang-ai/OpenAgents.svg?style=social\&label=Star)](https://github.com/xlang-ai/OpenAgents) ⭐ 4,858 | 🐛 15 | 🌐 Python | 📅 2024-11-18
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2310.10634)
+
+* [Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study](https://arxiv.org/abs/2403.03186) (Mar. 2024)
+
+  [![Star](https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social\&label=Star)](https://github.com/BAAI-Agents/Cradle) ⭐ 2,571 | 🐛 22 | 🌐 Python | 📅 2024-11-07
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.03186)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://baai-agents.github.io/Cradle/)
+
+* [ShowUI: One Vision-Language-Action Model for Generalist GUI Agent](https://arxiv.org/abs/2411.17465) (Nov. 2024)
+
+  [![Star](https://img.shields.io/github/stars/showlab/ShowUI.svg?style=social\&label=Star)](https://github.com/showlab/ShowUI) ⭐ 1,891 | 🐛 15 | 🌐 Python | 📅 2026-04-24
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17465)
+
+* [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456) (Feb. 2024)
+
+  [![Star](https://img.shields.io/github/stars/OS-Copilot/OS-Copilot.svg?style=social\&label=Star)](https://github.com/OS-Copilot/OS-Copilot) ⭐ 1,796 | 🐛 21 | 🌐 Python | 📅 2024-09-09
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.07456)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://os-copilot.github.io/)
+
 * [AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning](https://arxiv.org/abs/2506.01391) (Jun., 2025)
   [![Star](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI.svg?style=social\&label=Star)](https://github.com/OpenBMB/AgentCPM-GUI) ⭐ 1,407 | 🐛 2 | 🌐 Python | 📅 2026-01-11
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.01391)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/OpenBMB/AgentCPM-GUI) ⭐ 1,407 | 🐛 2 | 🌐 Python | 📅 2026-01-11
 
-* [CogAgent v2](https://github.com/THUDM/CogAgent) ⭐ 1,193 | 🐛 29 | 🌐 Python | 📅 2025-04-04 (Dec. 2024)
+* [Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems](https://arxiv.org/abs/2407.13032) (Jul. 2024)
 
-  [![Star](https://img.shields.io/github/stars/THUDM/CogAgent.svg?style=social\&label=Star)](https://github.com/THUDM/CogAgent) ⭐ 1,193 | 🐛 29 | 🌐 Python | 📅 2025-04-04
+  [![Star](https://img.shields.io/github/stars/EmergenceAI/Agent-E.svg?style=social\&label=Star)](https://github.com/EmergenceAI/Agent-E) ⭐ 1,248 | 🐛 23 | 🌐 Python | 📅 2026-05-04
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.13032)
+
+* [CogAgent v2](https://github.com/THUDM/CogAgent) ⭐ 1,194 | 🐛 29 | 🌐 Python | 📅 2025-04-04 (Dec. 2024)
+
+  [![Star](https://img.shields.io/github/stars/THUDM/CogAgent.svg?style=social\&label=Star)](https://github.com/THUDM/CogAgent) ⭐ 1,194 | 🐛 29 | 🌐 Python | 📅 2025-04-04
+
+* [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/abs/2401.13919)
+
+  [![Star](https://img.shields.io/github/stars/MinorJerry/WebVoyager.svg?style=social\&label=Star)](https://github.com/MinorJerry/WebVoyager) ⭐ 1,122 | 🐛 12 | 🌐 Python | 📅 2024-03-04
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13919)
+
+* [AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent](https://arxiv.org/abs/2404.03648) (Apr. 2024, KDD 2024)
+
+  [![Star](https://img.shields.io/github/stars/THUDM/AutoWebGLM.svg?style=social\&label=Star)](https://github.com/THUDM/AutoWebGLM) ⭐ 930 | 🐛 14 | 🌐 Python | 📅 2024-09-27
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.03648)
+
+* [AutoWebGLM: Bootstrap and Reinforce a Large Language Model-based Web Navigating Agent](https://arxiv.org/abs/2404.03648) (Apr. 2024)
+
+  [![Star](https://img.shields.io/github/stars/THUDM/AutoWebGLM.svg?style=social\&label=Star)](https://github.com/THUDM/AutoWebGLM) ⭐ 930 | 🐛 14 | 🌐 Python | 📅 2024-09-27
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.03648)
+
+* [GPT-4V(ision) is a Generalist Web Agent, if Grounded](https://arxiv.org/abs/2401.01614) (Jan. 2024, ICML 2024)
+
+  [![Star](https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct.svg?style=social\&label=Star)](https://github.com/OSU-NLP-Group/SeeAct) ⭐ 850 | 🐛 15 | 🌐 Python | 📅 2025-02-03
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01614)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://osu-nlp-group.github.io/SeeAct/)
+
+* [Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence](https://arxiv.org/abs/2407.07061) (Jul. 2024)
+
+  [![Star](https://img.shields.io/github/stars/OpenBMB/IoA.svg?style=social\&label=Star)](https://github.com/OpenBMB/IoA) ⭐ 828 | 🐛 10 | 🌐 Python | 📅 2025-10-04
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.07061)
+
+* [ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model](https://arxiv.org/abs/2402.07945) (Feb. 2024)
+
+  [![Star](https://img.shields.io/github/stars/niuzaisheng/ScreenAgent.svg?style=social\&label=Star)](https://github.com/niuzaisheng/ScreenAgent) ⭐ 612 | 🐛 21 | 🌐 Python | 📅 2024-11-25
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.07945)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://screenagent.pages.dev/)
+
+* [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935) (Jan. 2024, ACL 2024)
+
+  [![Star](https://img.shields.io/github/stars/njucckevin/SeeClick.svg?style=social\&label=Star)](https://github.com/njucckevin/SeeClick) ⭐ 495 | 🐛 3 | 🌐 HTML | 📅 2025-07-13
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.10935)
+
+* [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) (Sep. 2024)
+
+  [![Star](https://img.shields.io/github/stars/zorazrw/agent-workflow-memory.svg?style=social\&label=Star)](https://github.com/zorazrw/agent-workflow-memory) ⭐ 460 | 🐛 4 | 🌐 Python | 📅 2025-12-22
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07429)
+
+* [OS-ATLAS: A Foundation Action Model For Generalist GUI Agents](https://arxiv.org/pdf/2410.23218) (Oct. 2024)
+
+  [![Star](https://img.shields.io/github/stars/OS-Copilot/OS-Atlas.svg?style=social\&label=Star)](https://github.com/OS-Copilot/OS-Atlas) ⭐ 453 | 🐛 19 | 🌐 Python | 📅 2025-04-20
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.23218)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://osatlas.github.io/)
+  [![Dataset](https://img.shields.io/badge/Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data)
+
+* [Aria-UI: Visual Grounding for GUI Instructions](https://arxiv.org/abs/2412.16256) (Dec. 2024)
+
+  [![Star](https://img.shields.io/github/stars/AriaUI/Aria-UI.svg?style=social\&label=Star)](https://github.com/AriaUI/Aria-UI) ⭐ 411 | 🐛 5 | 🌐 Python | 📅 2025-02-08
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.16256)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ariaui.github.io)
+  [![Dataset](https://img.shields.io/badge/Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Aria-UI/Aria-UI_Data)
+
+* [DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning](https://arxiv.org/abs/2406.11896) (Jun. 2024)
+
+  [![Star](https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social\&label=Star)](https://github.com/DigiRL-agent/digirl) ⭐ 394 | 🐛 4 | 🌐 Python | 📅 2025-02-22
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11896)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://digirl-agent.github.io/)
+
+* [Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction](https://arxiv.org/abs/2412.04454) (Dec. 2024)
+
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://aguvis-project.github.io/)
+  [![Star](https://img.shields.io/github/stars/xlang-ai/Aguvis.svg?style=social\&label=Star)](https://github.com/xlang-ai/aguvis) ⭐ 391 | 🐛 24 | 🌐 Python | 📅 2025-03-07
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04454)
+
+* [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](https://arxiv.org/abs/2410.05243) (Oct. 2024)
+
+  [![Star](https://img.shields.io/github/stars/OSU-NLP-Group/UGround.svg?style=social\&label=Star)](https://github.com/OSU-NLP-Group/UGround) ⭐ 316 | 🐛 6 | 🌐 Python | 📅 2026-08-24
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://osu-nlp-group.github.io/UGround/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.05243)
+
+* [PC Agent: While You Sleep, AI Works - A Cognitive Journey into Digital World](https://arxiv.org/abs/2412.17589) (Dec. 2024)
+
+  [![Star](https://img.shields.io/github/stars/GAIR-NLP/PC-Agent.svg?style=social\&label=Star)](https://github.com/GAIR-NLP/PC-Agent) ⭐ 313 | 🐛 4 | 🌐 Python | 📅 2025-05-21
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17589)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://gair-nlp.github.io/PC-Agent/)
+
+* [AUITestAgent: Automatic Requirements Oriented GUI Function Testing](https://arxiv.org/abs/2407.09018) (Jul. 2024)
+
+  [![Star](https://img.shields.io/github/stars/bz-lab/AUITestAgent.svg?style=social\&label=Star)](https://github.com/bz-lab/AUITestAgent) ⭐ 297 | 🐛 13 | 📅 2024-07-19
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.09018)
+
+* [VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents](https://arxiv.org/abs/2408.06327) (Aug. 2024)
+
+  [![Star](https://img.shields.io/github/stars/THUDM/VisualAgentBench.svg?style=social\&label=Star)](https://github.com/THUDM/VisualAgentBench) ⭐ 274 | 🐛 17 | 🌐 Python | 📅 2025-04-24
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06327)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/THUDM/VisualAgentBench) ⭐ 274 | 🐛 17 | 🌐 Python | 📅 2025-04-24
+
+* [You Only Look at Screens: Multimodal Chain-of-Action Agents](https://arxiv.org/abs/2309.11436) (Sep. 2023)
+
+  [![Star](https://img.shields.io/github/stars/cooelf/Auto-UI.svg?style=social\&label=Star)](https://github.com/cooelf/Auto-UI) ⭐ 263 | 🐛 10 | 🌐 Python | 📅 2024-07-16
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.11436)
+
+* [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723) (Dec. 2024)
+
+  [![Star](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis.svg?style=social\&label=Star)](https://github.com/OS-Copilot/OS-Genesis) ⭐ 190 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2025-10-08
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19723)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://qiushisun.github.io/OS-Genesis-Home/)
+
+* [SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models](https://arxiv.org/abs/2305.19308) (May. 2023, NeurIPS 2023)
+
+  [![Star](https://img.shields.io/github/stars/BraveGroup/SheetCopilot.svg?style=social\&label=Star)](https://github.com/BraveGroup/SheetCopilot) ⭐ 166 | 🐛 3 | 🌐 Python | 📅 2026-06-25
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.19308)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sheetcopilot.github.io/)
+
+* [GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation](https://arxiv.org/abs/2311.07562) (Nov. 2023)
+
+  [![Star](https://img.shields.io/github/stars/zzxslp/MM-Navigator.svg?style=social\&label=Star)](https://github.com/zzxslp/MM-Navigator) ⭐ 134 | 🐛 1 | 🌐 Python | 📅 2024-07-17
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.07562)
+
+* [GUI-Thinker: GUI-Thinker: A Basic yet Comprehensive GUI Agent Developed with Self-Reflection](https://arxiv.org/abs/2502.08047) (Feb. 2025)
+
+  [![Star](https://img.shields.io/github/stars/showlab/WorldGUI.svg?style=social\&label=Star)](https://github.com/showlab/GUI-Thinker) ⭐ 125 | 🐛 2 | 🌐 Python | 📅 2025-07-27
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08047)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/GUI-Thinker/)
+
+* [TongUI: Building Generalized GUI Agents by Learning from Multimodal Web Tutorials](https://arxiv.org/abs/2504.12679v1) (Apr. 2025)
+
+  [![Star](https://img.shields.io/github/stars/showlab/WorldGUI.svg?style=social\&label=Star)](https://github.com/TongUI-agent/TongUI-agent) ⭐ 114 | 🐛 1 | 🌐 HTML | 📅 2025-12-01
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.12679v1)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://tongui-agent.github.io/)
+
+* [Android in the Zoo: Chain-of-Action-Thought for GUI Agents](https://arxiv.org/abs/2403.02713) (Mar. 2024)
+
+  [![Star](https://img.shields.io/github/stars/IMNearth/CoAT.svg?style=social\&label=Star)](https://github.com/IMNearth/CoAT) ⭐ 104 | 🐛 5 | 🌐 Python | 📅 2024-10-14
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02713)
+
+* [InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://arxiv.org/pdf/2501.04575) (Jan. 2025)
+
+  [![Star](https://img.shields.io/github/stars/Reallm-Labs/InfiGUIAgent.svg?style=social\&label=Star)](https://github.com/Reallm-Labs/InfiGUIAgent) ⭐ 74 | 🐛 2 | 📅 2025-05-23
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.04575)
+
+* [Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://arxiv.org/abs/2306.07863) (Jun. 2023, ICLR 2024)
+
+  [![Star](https://img.shields.io/github/stars/ltzheng/synapse.svg?style=social\&label=Star)](https://github.com/ltzheng/synapse) ⭐ 70 | 🐛 1 | 🌐 HTML | 📅 2026-01-07
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.07863)
+
+* [Test‑Time Reinforcement Learning for GUI Grounding via Region Consistency](https://arxiv.org/abs/2508.05615) (Aug., 2025)
+
+  [![Star](https://img.shields.io/github/stars/zju-real/gui-rcpo.svg?style=social\&label=Star)](https://github.com/zju-real/gui-rcpo) ⭐ 69 | 🐛 1 | 🌐 Python | 📅 2025-11-08
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05615)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zju-real.github.io/gui-rcpo/)
+
+* [Attacking Vision-Language Computer Agents via Pop-ups](https://arxiv.org/abs/2411.02391) (Nov. 2024)
+
+  [![Star](https://img.shields.io/github/stars/SALT-NLP/PopupAttack.svg?style=social\&label=Star)](https://github.com/SALT-NLP/PopupAttack) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2024-12-23
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.02391)
+
+* [MobA: A Two-Level Agent System for Efficient Mobile Task Automation](https://arxiv.org/abs/2410.13757) (Oct. 2024)
+
+  [![Star](https://img.shields.io/github/stars/OpenDFM/MobA.svg?style=social\&label=Star)](https://github.com/OpenDFM/MobA) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2025-10-10
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13757)
+  [![Dataset](https://img.shields.io/badge/Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/OpenDFM/MobA-MobBench)
+
+* [FedMABench: Benchmarking Mobile Agents on Decentralized Heterogeneous User Data](https://arxiv.org/abs/2503.05143) (Mar. 2025)
+
+  [![Star](https://img.shields.io/github/stars/wwh0411/FedMABench.svg?style=social\&label=Star)](https://github.com/wwh0411/FedMABench) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2025-11-11
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05143)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://huggingface.co/datasets/wwh0411/FedMABench)
+
+* [GUI Action Narrator: Where and When Did That Action Take Place?](https://arxiv.org/abs/2406.13719) (Jun. 2024)
+
+  [![Star](https://img.shields.io/github/stars/showlab/GUI-Action-Narrator.svg?style=social\&label=Star)](https://github.com/showlab/GUI-Action-Narrator) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-08
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.13719)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/GUI-Narrator)
 
 * [Grounding Open-Domain Instructions to Automate Web Support Tasks](https://web3.arxiv.org/abs/2103.16057) (Mar. 2021)
 
@@ -353,11 +587,6 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.12487)
 
-* [Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://arxiv.org/abs/2306.07863) (Jun. 2023, ICLR 2024)
-
-  [![Star](https://img.shields.io/github/stars/ltzheng/synapse.svg?style=social\&label=Star)](https://github.com/ltzheng/synapse) ⭐ 70 | 🐛 1 | 🌐 HTML | 📅 2026-01-07
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.07863)
-
 * [A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis](https://arxiv.org/abs/2307.12856) (Jul. 2023, ICLR 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2307.12856)
@@ -365,28 +594,6 @@ So then you can easily copy and use this information in your pull requests.
 * [LASER: LLM Agent with State-Space Exploration for Web Navigation](https://arxiv.org/abs/2309.08172) (Sep. 2023)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.08172)
-
-* [CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914) (Dec. 2023, CVPR 2024)
-
-  [![Star](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social\&label=Star)](https://github.com/THUDM/CogVLM) ⭐ 6,743 | 🐛 67 | 🌐 Python | 📅 2024-05-29
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.08914)
-
-* [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/abs/2401.13919)
-
-  [![Star](https://img.shields.io/github/stars/MinorJerry/WebVoyager.svg?style=social\&label=Star)](https://github.com/MinorJerry/WebVoyager) ⭐ 1,122 | 🐛 12 | 🌐 Python | 📅 2024-03-04
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13919)
-
-* [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456) (Feb. 2024)
-
-  [![Star](https://img.shields.io/github/stars/OS-Copilot/OS-Copilot.svg?style=social\&label=Star)](https://github.com/OS-Copilot/OS-Copilot) ⭐ 1,796 | 🐛 21 | 🌐 Python | 📅 2024-09-09
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.07456)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://os-copilot.github.io/)
-
-* [UFO: A UI-Focused Agent for Windows OS Interaction](https://arxiv.org/abs/2402.07939) (Feb. 2024)
-
-  [![Star](https://img.shields.io/github/stars/microsoft/UFO.svg?style=social\&label=Star)](https://github.com/microsoft/UFO) ⭐ 9,545 | 🐛 78 | 🌐 Python | 📅 2026-08-10
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.07939)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://microsoft.github.io/UFO/)
 
 * [Comprehensive Cognitive LLM Agent for Smartphone GUI Automation](https://arxiv.org/abs/2402.11941) (Feb. 2024)
 
@@ -396,58 +603,15 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14073)
 
-* [AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent](https://arxiv.org/abs/2404.03648) (Apr. 2024, KDD 2024)
-
-  [![Star](https://img.shields.io/github/stars/THUDM/AutoWebGLM.svg?style=social\&label=Star)](https://github.com/THUDM/AutoWebGLM) ⭐ 930 | 🐛 14 | 🌐 Python | 📅 2024-09-27
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.03648)
-
-* [SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models](https://arxiv.org/abs/2305.19308) (May. 2023, NeurIPS 2023)
-
-  [![Star](https://img.shields.io/github/stars/BraveGroup/SheetCopilot.svg?style=social\&label=Star)](https://github.com/BraveGroup/SheetCopilot) ⭐ 166 | 🐛 3 | 🌐 Python | 📅 2026-06-25
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.19308)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://sheetcopilot.github.io/)
-
-* [You Only Look at Screens: Multimodal Chain-of-Action Agents](https://arxiv.org/abs/2309.11436) (Sep. 2023)
-
-  [![Star](https://img.shields.io/github/stars/cooelf/Auto-UI.svg?style=social\&label=Star)](https://github.com/cooelf/Auto-UI) ⭐ 262 | 🐛 10 | 🌐 Python | 📅 2024-07-16
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.11436)
-
 * [Reinforced UI Instruction Grounding: Towards a Generic UI Task Automation API](https://arxiv.org/abs/2310.04716) (Oct. 2023)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.04716)
 
-* [OpenAgents: AN OPEN PLATFORM FOR LANGUAGE AGENTS IN THE WILD](https://arxiv.org/pdf/2310.10634) (Oct. 2023)
-
-  [![Star](https://img.shields.io/github/stars/xlang-ai/OpenAgents.svg?style=social\&label=Star)](https://github.com/xlang-ai/OpenAgents) ⭐ 4,857 | 🐛 15 | 🌐 Python | 📅 2024-11-18
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2310.10634)
-
 * [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://arxiv.org/abs/2410.18603) (Oct. 2024)
 
-  [![Star](https://img.shields.io/github/stars/chengyou-jia/AgentStore.svg?style=social\&label=Star)](https://github.com/chengyou-jia/AgentStore) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2024-12-19
+  [![Star](https://img.shields.io/github/stars/chengyou-jia/AgentStore.svg?style=social\&label=Star)](https://github.com/chengyou-jia/AgentStore)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.18603)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://chengyou-jia.github.io/AgentStore-Home/)
-
-* [GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation](https://arxiv.org/abs/2311.07562) (Nov. 2023)
-
-  [![Star](https://img.shields.io/github/stars/zzxslp/MM-Navigator.svg?style=social\&label=Star)](https://github.com/zzxslp/MM-Navigator) ⭐ 134 | 🐛 1 | 🌐 Python | 📅 2024-07-17
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.07562)
-
-* [AppAgent: Multimodal Agents as Smartphone Users](https://arxiv.org/abs/2312.13771) (Dec. 2023)
-
-  [![Star](https://img.shields.io/github/stars/mnotgod96/AppAgent.svg?style=social\&label=Star)](https://github.com/mnotgod96/AppAgent) ⭐ 6,855 | 🐛 99 | 🌐 Python | 📅 2025-03-19
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.13771)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://appagent-official.github.io)
-
-* [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935) (Jan. 2024, ACL 2024)
-
-  [![Star](https://img.shields.io/github/stars/njucckevin/SeeClick.svg?style=social\&label=Star)](https://github.com/njucckevin/SeeClick) ⭐ 495 | 🐛 3 | 🌐 HTML | 📅 2025-07-13
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.10935)
-
-* [GPT-4V(ision) is a Generalist Web Agent, if Grounded](https://arxiv.org/abs/2401.01614) (Jan. 2024, ICML 2024)
-
-  [![Star](https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct.svg?style=social\&label=Star)](https://github.com/OSU-NLP-Group/SeeAct) ⭐ 850 | 🐛 15 | 🌐 Python | 📅 2025-02-03
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01614)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://osu-nlp-group.github.io/SeeAct/)
 
 * [Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception](http://arxiv.org/abs/2401.16158) (Jan. 2024)
 
@@ -457,30 +621,13 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.04476)
 
-* [DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning](https://arxiv.org/abs/2406.11896) (Jun. 2024)
-
-  [![Star](https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social\&label=Star)](https://github.com/DigiRL-agent/digirl) ⭐ 394 | 🐛 4 | 🌐 Python | 📅 2025-02-22
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11896)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://digirl-agent.github.io/)
-
 * [Visual Grounding for User Interfaces](https://aclanthology.org/2024.naacl-industry.9.pdf) (NAACL 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://aclanthology.org/2024.naacl-industry.9.pdf)
 
-* [ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model](https://arxiv.org/abs/2402.07945) (Feb. 2024)
-
-  [![Star](https://img.shields.io/github/stars/niuzaisheng/ScreenAgent.svg?style=social\&label=Star)](https://github.com/niuzaisheng/ScreenAgent) ⭐ 612 | 🐛 21 | 🌐 Python | 📅 2024-11-25
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.07945)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://screenagent.pages.dev/)
-
 * [ScreenAI: A Vision-Language Model for UI and Infographics Understanding](https://arxiv.org/abs/2402.04615) (Feb. 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.04615)
-
-* [Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://arxiv.org/abs/2404.05719) (Apr. 2024)
-
-  [![Star](https://img.shields.io/github/stars/apple/ml-ferret.svg?style=social\&label=Star)](https://github.com/apple/ml-ferret) ⭐ 8,675 | 🐛 7 | 🌐 Python | 📅 2024-10-09
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.05719)
 
 * [Octopus: On-device language model for function calling of software APIs](https://arxiv.org/abs/2404.01549) (Apr., 2024)
 
@@ -499,11 +646,6 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.19296)
 
-* [AutoWebGLM: Bootstrap and Reinforce a Large Language Model-based Web Navigating Agent](https://arxiv.org/abs/2404.03648) (Apr. 2024)
-
-  [![Star](https://img.shields.io/github/stars/THUDM/AutoWebGLM.svg?style=social\&label=Star)](https://github.com/THUDM/AutoWebGLM) ⭐ 930 | 🐛 14 | 🌐 Python | 📅 2024-09-27
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.03648)
-
 * [Search Beyond Queries: Training Smaller Language Models for Web Interactions via Reinforcement Learning](https://arxiv.org/abs/2404.10887) (Apr. 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.10887)
@@ -521,26 +663,9 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03003)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mobile-gpt.github.io/)
 
-* [Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study](https://arxiv.org/abs/2403.03186) (Mar. 2024)
-
-  [![Star](https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social\&label=Star)](https://github.com/BAAI-Agents/Cradle) ⭐ 2,570 | 🐛 22 | 🌐 Python | 📅 2024-11-07
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.03186)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://baai-agents.github.io/Cradle/)
-
-* [Android in the Zoo: Chain-of-Action-Thought for GUI Agents](https://arxiv.org/abs/2403.02713) (Mar. 2024)
-
-  [![Star](https://img.shields.io/github/stars/IMNearth/CoAT.svg?style=social\&label=Star)](https://github.com/IMNearth/CoAT) ⭐ 103 | 🐛 5 | 🌐 Python | 📅 2024-10-14
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02713)
-
 * [Navigating WebAI: Training Agents to Complete Web Tasks with Large Language Models and Reinforcement Learning](https://arxiv.org/abs/2405.00516v1) (May 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.00516v1)
-
-* [GUI Action Narrator: Where and When Did That Action Take Place?](https://arxiv.org/abs/2406.13719) (Jun. 2024)
-
-  [![Star](https://img.shields.io/github/stars/showlab/GUI-Action-Narrator.svg?style=social\&label=Star)](https://github.com/showlab/GUI-Action-Narrator) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-08
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.13719)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/GUI-Narrator)
 
 * [Identifying User Goals from UI Trajectories](https://arxiv.org/abs/2406.14314) (Jun. 2024)
 
@@ -559,11 +684,6 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.14250)
 
-* [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014) (Jun. 2024)
-
-  [![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social\&label=Star)](https://github.com/X-PLUG/MobileAgent) ⭐ 9,118 | 🐛 195 | 🌐 Python | 📅 2026-07-07
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01014)
-
 * [MobileFlow: A Multimodal LLM For Mobile GUI Agent](https://arxiv.org/abs/2407.04346) (Jul. 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.04346)
@@ -572,45 +692,18 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.03037)
 
-* [Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence](https://arxiv.org/abs/2407.07061) (Jul. 2024)
-
-  [![Star](https://img.shields.io/github/stars/OpenBMB/IoA.svg?style=social\&label=Star)](https://github.com/OpenBMB/IoA) ⭐ 828 | 🐛 10 | 🌐 Python | 📅 2025-10-04
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.07061)
-
 * [MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices](https://arxiv.org/abs/2407.03913) (Jul. 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.03913)
-
-* [AUITestAgent: Automatic Requirements Oriented GUI Function Testing](https://arxiv.org/abs/2407.09018) (Jul. 2024)
-
-  [![Star](https://img.shields.io/github/stars/bz-lab/AUITestAgent.svg?style=social\&label=Star)](https://github.com/bz-lab/AUITestAgent) ⭐ 297 | 🐛 13 | 📅 2024-07-19
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.09018)
-
-* [Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems](https://arxiv.org/abs/2407.13032) (Jul. 2024)
-
-  [![Star](https://img.shields.io/github/stars/EmergenceAI/Agent-E.svg?style=social\&label=Star)](https://github.com/EmergenceAI/Agent-E) ⭐ 1,248 | 🐛 23 | 🌐 Python | 📅 2026-05-04
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.13032)
 
 * [OmniParser for Pure Vision Based GUI Agent](https://arxiv.org/pdf/2408.00203) (Aug. 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.00203)
 
-* [VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents](https://arxiv.org/abs/2408.06327) (Aug. 2024)
-
-  [![Star](https://img.shields.io/github/stars/THUDM/VisualAgentBench.svg?style=social\&label=Star)](https://github.com/THUDM/VisualAgentBench) ⭐ 274 | 🐛 17 | 🌐 Python | 📅 2025-04-24
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06327)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/THUDM/VisualAgentBench) ⭐ 274 | 🐛 17 | 🌐 Python | 📅 2025-04-24
-
 * [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://web3.arxiv.org/abs/2408.07199v1) (Aug. 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://web3.arxiv.org/abs/2408.07199v1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.multion.ai/blog/introducing-agent-q-research-breakthrough-for-the-next-generation-of-ai-agents-with-planning-and-self-healing-capabilities)
-
-* [MindSearch: Mimicking Human Minds Elicits Deep AI Searcher](https://arxiv.org/abs/2407.20183) (Jul. 2023)
-
-  [![Star](https://img.shields.io/github/stars/InternLM/MindSearch.svg?style=social\&label=Star)](https://github.com/InternLM/MindSearch) ⭐ 6,917 | 🐛 57 | 🌐 JavaScript | 📅 2025-07-04
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.20183)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://mindsearch.netlify.app/)
 
 * [AppAgent v2: Advanced Agent for Flexible Mobile Interactions](https://arxiv.org/abs/2408.11824) (Aug. 2024)
 
@@ -621,43 +714,9 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.02544)
 
-* [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) (Sep. 2024)
-
-  [![Star](https://img.shields.io/github/stars/zorazrw/agent-workflow-memory.svg?style=social\&label=Star)](https://github.com/zorazrw/agent-workflow-memory) ⭐ 460 | 🐛 4 | 🌐 Python | 📅 2025-12-22
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07429)
-
 * [MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understandin](https://arxiv.org/abs/2409.14818) (Sep. 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.14818)
-
-* [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://arxiv.org/abs/2410.08164) (Oct. 2024)
-
-  [![Star](https://img.shields.io/github/stars/simular-ai/Agent-S.svg?style=social\&label=Star)](https://github.com/simular-ai/Agent-S) ⭐ 12,188 | 🐛 41 | 🌐 Python | 📅 2026-08-01
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08164)
-
-* [MobA: A Two-Level Agent System for Efficient Mobile Task Automation](https://arxiv.org/abs/2410.13757) (Oct. 2024)
-
-  [![Star](https://img.shields.io/github/stars/OpenDFM/MobA.svg?style=social\&label=Star)](https://github.com/OpenDFM/MobA) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2025-10-10
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13757)
-  [![Dataset](https://img.shields.io/badge/Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/OpenDFM/MobA-MobBench)
-
-* [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](https://arxiv.org/abs/2410.05243) (Oct. 2024)
-
-  [![Star](https://img.shields.io/github/stars/OSU-NLP-Group/UGround.svg?style=social\&label=Star)](https://github.com/OSU-NLP-Group/UGround) ⭐ 316 | 🐛 6 | 🌐 Python | 📅 2026-03-11
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://osu-nlp-group.github.io/UGround/)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.05243)
-
-* [OS-ATLAS: A Foundation Action Model For Generalist GUI Agents](https://arxiv.org/pdf/2410.23218) (Oct. 2024)
-
-  [![Star](https://img.shields.io/github/stars/OS-Copilot/OS-Atlas.svg?style=social\&label=Star)](https://github.com/OS-Copilot/OS-Atlas) ⭐ 453 | 🐛 19 | 🌐 Python | 📅 2025-04-20
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.23218)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://osatlas.github.io/)
-  [![Dataset](https://img.shields.io/badge/Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data)
-
-* [Attacking Vision-Language Computer Agents via Pop-ups](https://arxiv.org/abs/2411.02391) (Nov. 2024)
-
-  [![Star](https://img.shields.io/github/stars/SALT-NLP/PopupAttack.svg?style=social\&label=Star)](https://github.com/SALT-NLP/PopupAttack) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2024-12-23
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.02391)
 
 * [AutoGLM: Autonomous Foundation Agents for GUIs](https://arxiv.org/abs/2411.00820) (Nov. 2024)
 
@@ -668,48 +727,13 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.13451)
 
-* [ShowUI: One Vision-Language-Action Model for Generalist GUI Agent](https://arxiv.org/abs/2411.17465) (Nov. 2024)
-
-  [![Star](https://img.shields.io/github/stars/showlab/ShowUI.svg?style=social\&label=Star)](https://github.com/showlab/ShowUI) ⭐ 1,892 | 🐛 15 | 🌐 Python | 📅 2026-04-24
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17465)
-
-* [Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction](https://arxiv.org/abs/2412.04454) (Dec. 2024)
-
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://aguvis-project.github.io/)
-  [![Star](https://img.shields.io/github/stars/xlang-ai/Aguvis.svg?style=social\&label=Star)](https://github.com/xlang-ai/aguvis) ⭐ 391 | 🐛 24 | 🌐 Python | 📅 2025-03-07
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04454)
-
 * [Falcon-UI: Understanding GUI Before Following User Instructions](https://arxiv.org/abs/2412.09362) (Dec. 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09362)
 
-* [PC Agent: While You Sleep, AI Works - A Cognitive Journey into Digital World](https://arxiv.org/abs/2412.17589) (Dec. 2024)
-
-  [![Star](https://img.shields.io/github/stars/GAIR-NLP/PC-Agent.svg?style=social\&label=Star)](https://github.com/GAIR-NLP/PC-Agent) ⭐ 313 | 🐛 4 | 🌐 Python | 📅 2025-05-21
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17589)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://gair-nlp.github.io/PC-Agent/)
-
 * [Iris: Breaking GUI Complexity with Adaptive Focus and Self-Refining](https://arxiv.org/pdf/2412.10342) (Dec. 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.10342)
-
-* [Aria-UI: Visual Grounding for GUI Instructions](https://arxiv.org/abs/2412.16256) (Dec. 2024)
-
-  [![Star](https://img.shields.io/github/stars/AriaUI/Aria-UI.svg?style=social\&label=Star)](https://github.com/AriaUI/Aria-UI) ⭐ 411 | 🐛 5 | 🌐 Python | 📅 2025-02-08
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.16256)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://ariaui.github.io)
-  [![Dataset](https://img.shields.io/badge/Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Aria-UI/Aria-UI_Data)
-
-* [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723) (Dec. 2024)
-
-  [![Star](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis.svg?style=social\&label=Star)](https://github.com/OS-Copilot/OS-Genesis) ⭐ 190 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2025-10-08
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19723)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://qiushisun.github.io/OS-Genesis-Home/)
-
-* [InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://arxiv.org/pdf/2501.04575) (Jan. 2025)
-
-  [![Star](https://img.shields.io/github/stars/Reallm-Labs/InfiGUIAgent.svg?style=social\&label=Star)](https://github.com/Reallm-Labs/InfiGUIAgent) ⭐ 74 | 🐛 2 | 📅 2025-05-23
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.04575)
 
 * [GUI-Bee : Align GUI Action Grounding to Novel Environments via Autonomous Exploration](https://arxiv.org/pdf/2501.13896) (Jan. 2025)
 
@@ -733,35 +757,11 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07949)
 
-* [GUI-Thinker: GUI-Thinker: A Basic yet Comprehensive GUI Agent Developed with Self-Reflection](https://arxiv.org/abs/2502.08047) (Feb. 2025)
-
-  [![Star](https://img.shields.io/github/stars/showlab/WorldGUI.svg?style=social\&label=Star)](https://github.com/showlab/GUI-Thinker) ⭐ 125 | 🐛 2 | 🌐 Python | 📅 2025-07-27
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08047)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/GUI-Thinker/)
-
-* [TongUI: Building Generalized GUI Agents by Learning from Multimodal Web Tutorials](https://arxiv.org/abs/2504.12679v1) (Apr. 2025)
-
-  [![Star](https://img.shields.io/github/stars/showlab/WorldGUI.svg?style=social\&label=Star)](https://github.com/TongUI-agent/TongUI-agent) ⭐ 114 | 🐛 1 | 🌐 HTML | 📅 2025-12-01
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.12679v1)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://tongui-agent.github.io/)
-
 * [MobileA3gent: Training Mobile GUI Agents Using Decentralized Self-Sourced Data from Diverse Users](https://arxiv.org/abs/2502.02982) (Feb., 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.02982)
 
-* [FedMABench: Benchmarking Mobile Agents on Decentralized Heterogeneous User Data](https://arxiv.org/abs/2503.05143) (Mar. 2025)
-
-  [![Star](https://img.shields.io/github/stars/wwh0411/FedMABench.svg?style=social\&label=Star)](https://github.com/wwh0411/FedMABench) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2025-11-11
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05143)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://huggingface.co/datasets/wwh0411/FedMABench)
-
 * [EVA: Red-Teaming GUI Agents via Evolving Indirect Prompt Injection](https://arxiv.org/abs/2505.14289) (May. 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.14289)
-
-* [Test‑Time Reinforcement Learning for GUI Grounding via Region Consistency](https://arxiv.org/abs/2508.05615) (Aug., 2025)
-
-  [![Star](https://img.shields.io/github/stars/zju-real/gui-rcpo.svg?style=social\&label=Star)](https://github.com/zju-real/gui-rcpo) ⭐ 69 | 🐛 1 | 🌐 Python | 📅 2025-11-08
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05615)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://zju-real.github.io/gui-rcpo/)
 
 ## Surveys
 
@@ -770,6 +770,11 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/OS-Agent-Survey/OS-Agent-Survey.svg?style=social\&label=Star)](https://github.com/OS-Agent-Survey/OS-Agent-Survey) ⭐ 487 | 🐛 3 | 📅 2025-08-16
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf) ⭐ 487 | 🐛 3 | 📅 2025-08-16
   [![Website](https://img.shields.io/badge/Website-9cf)](https://os-agent-survey.github.io/)
+
+* [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](https://arxiv.org/abs/2504.19838) (Apr. 2025)
+
+  [![Star](https://img.shields.io/github/stars/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents.svg?style=social\&label=Star)](https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents) ⭐ 177 | 🐛 3 | 📅 2026-07-28
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.19838)
 
 * [GUI Agents with Foundation Models: A Comprehensive Survey](https://arxiv.org/abs/2411.04890) (Nov. 2024)
 
@@ -784,20 +789,15 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.13501)
 
-* [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](https://arxiv.org/abs/2504.19838) (Apr. 2025)
-
-  [![Star](https://img.shields.io/github/stars/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents.svg?style=social\&label=Star)](https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents) ⭐ 177 | 🐛 3 | 📅 2026-07-28
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.19838)
-
 ## Projects
 
-* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 186,828 | 🐛 544 | 🌐 Python | 📅 2026-08-23
+* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 186,849 | 🐛 537 | 🌐 Python | 📅 2026-08-24
 
-  [![Star](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg?style=social\&label=Star)](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 186,828 | 🐛 544 | 🌐 Python | 📅 2026-08-23
+  [![Star](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg?style=social\&label=Star)](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 186,849 | 🐛 537 | 🌐 Python | 📅 2026-08-24
 
-* [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) ⭐ 68,122 | 🐛 5 | 🌐 Rust | 📅 2026-08-20
+* [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) ⭐ 68,131 | 🐛 5 | 🌐 Rust | 📅 2026-08-20
 
-  [![Star](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter.svg?style=social\&label=Star)](https://github.com/OpenInterpreter/open-interpreter) ⭐ 68,122 | 🐛 5 | 🌐 Rust | 📅 2026-08-20
+  [![Star](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter.svg?style=social\&label=Star)](https://github.com/OpenInterpreter/open-interpreter) ⭐ 68,131 | 🐛 5 | 🌐 Rust | 📅 2026-08-20
   [![Website](https://img.shields.io/badge/Website-9cf)](https://openinterpreter.com/)
 
 * [OpenUI](https://github.com/wandb/openui) ⭐ 22,515 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-22
@@ -805,18 +805,28 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/wandb/openui.svg?style=social\&label=Star)](https://github.com/wandb/openui) ⭐ 22,515 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-22
   [![Website](https://img.shields.io/badge/Website-9cf)](https://openui.fly.dev)
 
-* [Mobile-Agent: The Powerful Mobile Device Operation Assistant Family](https://github.com/X-PLUG/MobileAgent) ⭐ 9,118 | 🐛 195 | 🌐 Python | 📅 2026-07-07
+* [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
 
-  [![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social\&label=Star)](https://github.com/X-PLUG/MobileAgent) ⭐ 9,118 | 🐛 195 | 🌐 Python | 📅 2026-07-07
+  [![Star](https://img.shields.io/github/stars/asweigart/pyautogui.svg?style=social\&label=Star)](https://github.com/asweigart/pyautogui/tree/master) ⭐ 12,668 | 🐛 584 | 🌐 Python | 📅 2024-08-20
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://pyautogui.readthedocs.io/en/latest/)
 
-* [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) ⭐ 7,944 | 🐛 31 | 🌐 Python | 📅 2026-06-18
+* [Mobile-Agent: The Powerful Mobile Device Operation Assistant Family](https://github.com/X-PLUG/MobileAgent) ⭐ 9,120 | 🐛 195 | 🌐 Python | 📅 2026-07-07
 
-  [![Star](https://img.shields.io/github/stars/onuratakan/gpt-computer-assistant.svg?style=social\&label=Star)](https://github.com/onuratakan/gpt-computer-assistant) ⭐ 7,944 | 🐛 31 | 🌐 Python | 📅 2026-06-18
+  [![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social\&label=Star)](https://github.com/X-PLUG/MobileAgent) ⭐ 9,120 | 🐛 195 | 🌐 Python | 📅 2026-07-07
+
+* [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) ⭐ 7,945 | 🐛 31 | 🌐 Python | 📅 2026-06-18
+
+  [![Star](https://img.shields.io/github/stars/onuratakan/gpt-computer-assistant.svg?style=social\&label=Star)](https://github.com/onuratakan/gpt-computer-assistant) ⭐ 7,945 | 🐛 31 | 🌐 Python | 📅 2026-06-18
 
 * [LaVague: Large Action Model Framework to Develop AI Web Agents](https://github.com/lavague-ai/LaVague) ⭐ 6,390 | 🐛 104 | 🌐 Python | 📅 2025-01-21
 
   [![Star](https://img.shields.io/github/stars/lavague-ai/LaVague.svg?style=social\&label=Star)](https://github.com/lavague-ai/LaVague) ⭐ 6,390 | 🐛 104 | 🌐 Python | 📅 2025-01-21
   [![Website](https://img.shields.io/badge/Website-9cf)](https://docs.lavague.ai/)
+
+* [nut.js](https://nutjs.dev/)
+
+  [![Star](https://img.shields.io/github/stars/nut-tree/nut.js.svg?style=social\&label=Star)](https://github.com/nut-tree/nut.js) ⭐ 2,848 | 🐛 43 | 🌐 TypeScript | 📅 2024-05-01
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://nutjs.dev/)
 
 * [Computer Use Out-of-the-box](https://github.com/showlab/computer_use_ootb) ⭐ 1,960 | 🐛 40 | 🌐 Python | 📅 2025-05-21
 
@@ -827,9 +837,9 @@ So then you can easily copy and use this information in your pull requests.
 
   [![Star](https://img.shields.io/github/stars/nat/natbot.svg?style=social\&label=Star)](https://github.com/nat/natbot) ⭐ 1,932 | 🐛 10 | 🌐 Python | 📅 2024-06-09
 
-* [OpenAdapt: AI-First Process Automation with Large Multimodal Models](https://github.com/OpenAdaptAI/OpenAdapt) ⭐ 1,697 | 🐛 2 | 🌐 Python | 📅 2026-08-22
+* [OpenAdapt: AI-First Process Automation with Large Multimodal Models](https://github.com/OpenAdaptAI/OpenAdapt) ⭐ 1,699 | 🐛 2 | 🌐 Python | 📅 2026-08-22
 
-  [![Star](https://img.shields.io/github/stars/OpenAdaptAI/OpenAdapt.svg?style=social\&label=Star)](https://github.com/OpenAdaptAI/OpenAdapt) ⭐ 1,697 | 🐛 2 | 🌐 Python | 📅 2026-08-22
+  [![Star](https://img.shields.io/github/stars/OpenAdaptAI/OpenAdapt.svg?style=social\&label=Star)](https://github.com/OpenAdaptAI/OpenAdapt) ⭐ 1,699 | 🐛 2 | 🌐 Python | 📅 2026-08-22
 
 * [WebLlama](https://github.com/McGill-NLP/webllama) ⭐ 1,402 | 🐛 0 | 🌐 Python | 📅 2026-08-16
 
@@ -851,16 +861,6 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/reidbarber/webmarker.svg?style=social\&label=Star)](https://github.com/reidbarber/webmarker) ⭐ 61 | 🐛 5 | 🌐 TypeScript | 📅 2026-03-08
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.webmarkerjs.com/)
 
-* [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
-
-  [![Star](https://img.shields.io/github/stars/asweigart/pyautogui.svg?style=social\&label=Star)](https://github.com/asweigart/pyautogui/tree/master) ⭐ 12,667 | 🐛 584 | 🌐 Python | 📅 2024-08-20
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://pyautogui.readthedocs.io/en/latest/)
-
-* [nut.js](https://nutjs.dev/)
-
-  [![Star](https://img.shields.io/github/stars/nut-tree/nut.js.svg?style=social\&label=Star)](https://github.com/nut-tree/nut.js) ⭐ 2,848 | 🐛 43 | 🌐 TypeScript | 📅 2024-05-01
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://nutjs.dev/)
-
 * [ACT-1](https://www.adept.ai/blog/act-1)
 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.adept.ai/blog/act-1)
@@ -871,9 +871,9 @@ So then you can easily copy and use this information in your pull requests.
 
 ## Safety
 
-* [Adversarial Attacks on Multimodal Agents](https://github.com/ChenWu98/agent-attack) ⭐ 141 | 🐛 1 | 🌐 Python | 📅 2025-02-19
+* [Adversarial Attacks on Multimodal Agents](https://github.com/ChenWu98/agent-attack) ⭐ 142 | 🐛 1 | 🌐 Python | 📅 2025-02-19
 
-  [![Star](https://img.shields.io/github/stars/ChenWu98/agent-attack.svg?style=social\&label=Star)](https://github.com/ChenWu98/agent-attack) ⭐ 141 | 🐛 1 | 🌐 Python | 📅 2025-02-19
+  [![Star](https://img.shields.io/github/stars/ChenWu98/agent-attack.svg?style=social\&label=Star)](https://github.com/ChenWu98/agent-attack) ⭐ 142 | 🐛 1 | 🌐 Python | 📅 2025-02-19
   [![Website](https://img.shields.io/badge/Website-9cf)](https://chenwu.io/attack-agent/)
 
 * [Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents](https://github.com/OSU-NLP-Group/WebDreamer) ⭐ 104 | 🐛 5 | 🌐 Python | 📅 2025-10-05
@@ -908,8 +908,8 @@ So then you can easily copy and use this information in your pull requests.
 
 ## Acknowledgements
 
-This template is provided by [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) ⭐ 5,758 | 🐛 2 | 📅 2026-08-20 and [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination) ⭐ 1,039 | 🐛 4 | 📅 2025-09-27.
+This template is provided by [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) ⭐ 5,758 | 🐛 3 | 📅 2026-08-20 and [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination) ⭐ 1,039 | 🐛 4 | 📅 2025-09-27.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
