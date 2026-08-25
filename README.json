@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38613
+            "stars": 38614
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38613
+            "stars": 38614
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T09:11:07Z",
             "owner": "xlang-ai",
             "repo": "OSWorld",
-            "stars": 3103
+            "stars": 3106
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2025-11-26T21:16:00Z",
             "owner": "web-arena-x",
             "repo": "webarena",
-            "stars": 1586
+            "stars": 1587
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-04-13T19:58:37Z",
             "owner": "microsoft",
             "repo": "WindowsAgentArena",
-            "stars": 887
+            "stars": 889
           }
         },
         {
@@ -621,7 +621,7 @@
             "last_commit": "2026-08-01T03:31:09Z",
             "owner": "simular-ai",
             "repo": "Agent-S",
-            "stars": 12189
+            "stars": 12188
           }
         },
         {
@@ -636,7 +636,7 @@
             "last_commit": "2026-08-24T13:00:27Z",
             "owner": "microsoft",
             "repo": "UFO",
-            "stars": 9548
+            "stars": 9549
           }
         },
         {
@@ -651,7 +651,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9122
+            "stars": 9124
           }
         },
         {
@@ -906,7 +906,7 @@
             "last_commit": "2024-11-25T02:51:51Z",
             "owner": "niuzaisheng",
             "repo": "ScreenAgent",
-            "stars": 612
+            "stars": 611
           }
         },
         {
@@ -1287,7 +1287,7 @@
             "last_commit": "2025-08-16T07:10:15Z",
             "owner": "OS-Agent-Survey",
             "repo": "OS-Agent-Survey",
-            "stars": 487
+            "stars": 488
           }
         },
         {
@@ -1320,7 +1320,7 @@
             "archived": false,
             "id": 614765452,
             "language": "Python",
-            "last_commit": "2026-08-24T19:12:39Z",
+            "last_commit": "2026-08-25T06:00:03Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
             "stars": 186852
@@ -1338,7 +1338,7 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68137
+            "stars": 68139
           }
         },
         {
@@ -1383,7 +1383,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9122
+            "stars": 9124
           }
         },
         {
@@ -1398,7 +1398,7 @@
             "last_commit": "2026-06-18T14:55:50Z",
             "owner": "Upsonic",
             "repo": "Upsonic",
-            "stars": 7945
+            "stars": 7946
           }
         },
         {
@@ -1413,7 +1413,7 @@
             "last_commit": "2025-01-21T13:41:48Z",
             "owner": "lavague-ai",
             "repo": "LaVague",
-            "stars": 6390
+            "stars": 6389
           }
         },
         {
@@ -1473,7 +1473,7 @@
             "last_commit": "2026-08-22T23:35:48Z",
             "owner": "OpenAdaptAI",
             "repo": "OpenAdapt",
-            "stars": 1699
+            "stars": 1700
           }
         },
         {
@@ -1665,7 +1665,7 @@
             "last_commit": "2026-08-17T20:02:02Z",
             "owner": "OSU-NLP-Group",
             "repo": "GUI-Agents-Paper-List",
-            "stars": 888
+            "stars": 889
           }
         },
         {
@@ -1718,7 +1718,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:49:09.817Z",
+    "last_updated": "2026-08-25T06:05:20.074Z",
     "original_repository": "showlab/Awesome-GUI-Agent",
     "original_repository_id": 821475246,
     "original_repository_sha": "25b01b452791bdb41f3467d3ea4cfe3388266c73",
