@@ -1004,7 +1004,7 @@
             "open_issues": 42,
             "owner": "simular-ai",
             "repo": "Agent-S",
-            "stars": 12202,
+            "stars": 12201,
             "topics": [
               "agent-computer-interface",
               "ai-agents",
@@ -2175,10 +2175,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-29T04:02:30Z",
-            "open_issues": 525,
+            "open_issues": 517,
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186966,
+            "stars": 186965,
             "topics": [
               "agentic-ai",
               "agents",
@@ -2265,7 +2265,7 @@
             "open_issues": 584,
             "owner": "asweigart",
             "repo": "pyautogui",
-            "stars": 12669,
+            "stars": 12670,
             "topics": []
           },
           "first_seen": "2026-08-28T07:02:29.905Z"
@@ -2869,7 +2869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:27:31.364Z",
+    "last_updated": "2026-08-29T05:13:46.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "💻 A curated list of papers and resources for multi-modal Graphical User Interface (GUI) agents.",
