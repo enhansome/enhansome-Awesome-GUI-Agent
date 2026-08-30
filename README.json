@@ -19,7 +19,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38643,
+            "stars": 38651,
             "topics": [
               "ai",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38643,
+            "stars": 38651,
             "topics": [
               "ai",
               "machine-learning",
@@ -69,7 +69,7 @@
             "open_issues": 92,
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19884,
+            "stars": 19888,
             "topics": [
               "agent",
               "alibaba",
@@ -97,7 +97,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-21T09:11:07Z",
-            "open_issues": 200,
+            "open_issues": 202,
             "owner": "xlang-ai",
             "repo": "OSWorld",
             "stars": 3112,
@@ -136,7 +136,7 @@
             "open_issues": 102,
             "owner": "web-arena-x",
             "repo": "webarena",
-            "stars": 1590,
+            "stars": 1591,
             "topics": [
               "agent",
               "nlp"
@@ -236,7 +236,7 @@
             "open_issues": 47,
             "owner": "google-research",
             "repo": "android_world",
-            "stars": 866,
+            "stars": 867,
             "topics": []
           },
           "first_seen": "2026-08-28T07:02:29.905Z"
@@ -719,7 +719,7 @@
             "id": 970185188,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-04-18T15:50:23Z",
+            "last_commit": "2026-08-29T07:19:15Z",
             "open_issues": 7,
             "owner": "lgy0404",
             "repo": "LearnAct",
@@ -1004,7 +1004,7 @@
             "open_issues": 42,
             "owner": "simular-ai",
             "repo": "Agent-S",
-            "stars": 12201,
+            "stars": 12203,
             "topics": [
               "agent-computer-interface",
               "ai-agents",
@@ -1039,7 +1039,7 @@
             "open_issues": 79,
             "owner": "microsoft",
             "repo": "UFO",
-            "stars": 9584,
+            "stars": 9587,
             "topics": [
               "agent",
               "automation",
@@ -1122,7 +1122,7 @@
             "open_issues": 57,
             "owner": "InternLM",
             "repo": "MindSearch",
-            "stars": 6919,
+            "stars": 6920,
             "topics": [
               "ai-search-engine",
               "gpt",
@@ -1154,7 +1154,7 @@
             "open_issues": 99,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6867,
+            "stars": 6868,
             "topics": [
               "agent",
               "chatgpt",
@@ -1282,7 +1282,7 @@
             "open_issues": 17,
             "owner": "showlab",
             "repo": "ShowUI",
-            "stars": 1893,
+            "stars": 1894,
             "topics": [
               "agent",
               "computer-use",
@@ -1372,7 +1372,7 @@
             "open_issues": 29,
             "owner": "zai-org",
             "repo": "CogAgent",
-            "stars": 1194,
+            "stars": 1195,
             "topics": [
               "agent",
               "computer-use",
@@ -1747,7 +1747,7 @@
             "open_issues": 17,
             "owner": "THUDM",
             "repo": "VisualAgentBench",
-            "stars": 274,
+            "stars": 275,
             "topics": [
               "gpt",
               "llm-agent",
@@ -2147,7 +2147,7 @@
             "id": 909644959,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-07-28T04:40:51Z",
+            "last_commit": "2026-08-29T07:19:08Z",
             "open_issues": 3,
             "owner": "PhoneLLM",
             "repo": "Awesome-LLM-Powered-Phone-GUI-Agents",
@@ -2174,11 +2174,11 @@
             "id": 614765452,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T04:02:30Z",
-            "open_issues": 517,
+            "last_commit": "2026-08-29T22:58:45Z",
+            "open_issues": 519,
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186965,
+            "stars": 186991,
             "topics": [
               "agentic-ai",
               "agents",
@@ -2208,10 +2208,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-20T03:35:38Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68177,
+            "stars": 68190,
             "topics": [
               "acp",
               "coding-agent",
@@ -2265,7 +2265,7 @@
             "open_issues": 584,
             "owner": "asweigart",
             "repo": "pyautogui",
-            "stars": 12670,
+            "stars": 12671,
             "topics": []
           },
           "first_seen": "2026-08-28T07:02:29.905Z"
@@ -2357,7 +2357,7 @@
             "open_issues": 104,
             "owner": "lavague-ai",
             "repo": "LaVague",
-            "stars": 6389,
+            "stars": 6388,
             "topics": [
               "ai",
               "browser",
@@ -2385,7 +2385,7 @@
             "open_issues": 43,
             "owner": "nut-tree",
             "repo": "nut.js",
-            "stars": 2847,
+            "stars": 2848,
             "topics": [
               "automation",
               "desktop-automation",
@@ -2449,24 +2449,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Installer and unified CLI for OpenAdapt. The compiler and governed runtime live in openadapt-flow.",
+            "description": "Compiles a demonstrated GUI task into a program that reports VERIFIED only if an independent check agrees. pip install openadapt; openadapt quickstart. Compiler lives in openadapt-flow.",
             "homepage": "https://openadapt.ai",
             "id": 627024850,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T03:35:32Z",
-            "open_issues": 4,
+            "last_commit": "2026-08-29T22:58:37Z",
+            "open_issues": 3,
             "owner": "OpenAdaptAI",
             "repo": "OpenAdapt",
-            "stars": 1705,
+            "stars": 1706,
             "topics": [
-              "agents",
-              "ai-agents",
               "automation-from-demonstration",
               "browser-automation",
               "citrix",
-              "computer-use",
-              "computer-use-agents",
               "demonstration-compiler",
               "desktop-automation",
               "deterministic-replay",
@@ -2479,7 +2475,8 @@
               "rdp",
               "rpa",
               "ui-automation",
-              "workflow-automation"
+              "workflow-automation",
+              "workflow-compiler"
             ]
           },
           "first_seen": "2026-08-28T07:02:29.905Z"
@@ -2668,7 +2665,7 @@
             "open_issues": 5,
             "owner": "OSU-NLP-Group",
             "repo": "WebDreamer",
-            "stars": 104,
+            "stars": 105,
             "topics": []
           },
           "first_seen": "2026-08-28T07:02:29.905Z"
@@ -2814,7 +2811,7 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-06-17T08:12:17Z",
-            "open_issues": 9,
+            "open_issues": 8,
             "owner": "opendilab",
             "repo": "awesome-ui-agents",
             "stars": 316,
@@ -2869,7 +2866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:13:46.428Z",
+    "last_updated": "2026-08-30T01:33:56.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "💻 A curated list of papers and resources for multi-modal Graphical User Interface (GUI) agents.",
@@ -2878,7 +2875,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-17T15:58:09Z",
-      "open_issues": 14,
+      "open_issues": 16,
       "owner": "showlab",
       "repo": "Awesome-GUI-Agent",
       "stars": 1214,
