@@ -15,11 +15,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T14:53:17Z",
+            "last_commit": "2026-09-02T22:34:06Z",
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38673,
+            "stars": 38681,
             "topics": [
               "ai",
               "machine-learning",
@@ -40,11 +40,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T14:53:17Z",
+            "last_commit": "2026-09-02T22:34:06Z",
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38673,
+            "stars": 38681,
             "topics": [
               "ai",
               "machine-learning",
@@ -69,7 +69,7 @@
             "open_issues": 92,
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19901,
+            "stars": 19906,
             "topics": [
               "agent",
               "alibaba",
@@ -100,7 +100,7 @@
             "open_issues": 201,
             "owner": "xlang-ai",
             "repo": "OSWorld",
-            "stars": 3117,
+            "stars": 3118,
             "topics": [
               "agent",
               "artificial-intelligence",
@@ -136,7 +136,7 @@
             "open_issues": 102,
             "owner": "web-arena-x",
             "repo": "webarena",
-            "stars": 1591,
+            "stars": 1592,
             "topics": [
               "agent",
               "nlp"
@@ -236,7 +236,7 @@
             "open_issues": 47,
             "owner": "google-research",
             "repo": "android_world",
-            "stars": 870,
+            "stars": 871,
             "topics": []
           },
           "first_seen": "2026-08-28T07:02:29.905Z"
@@ -257,7 +257,7 @@
             "open_issues": 18,
             "owner": "princeton-nlp",
             "repo": "WebShop",
-            "stars": 588,
+            "stars": 589,
             "topics": [
               "decision-making",
               "language",
@@ -1001,10 +1001,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-01T03:31:09Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "simular-ai",
             "repo": "Agent-S",
-            "stars": 12211,
+            "stars": 12219,
             "topics": [
               "agent-computer-interface",
               "ai-agents",
@@ -1035,11 +1035,11 @@
             "id": 740316987,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-24T13:00:27Z",
-            "open_issues": 79,
+            "last_commit": "2026-09-02T07:27:35Z",
+            "open_issues": 80,
             "owner": "microsoft",
             "repo": "UFO",
-            "stars": 9615,
+            "stars": 9620,
             "topics": [
               "agent",
               "automation",
@@ -1101,7 +1101,7 @@
             "open_issues": 7,
             "owner": "apple",
             "repo": "ml-ferret",
-            "stars": 8672,
+            "stars": 8671,
             "topics": []
           },
           "first_seen": "2026-08-28T07:02:29.905Z"
@@ -1154,7 +1154,7 @@
             "open_issues": 99,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6869,
+            "stars": 6872,
             "topics": [
               "agent",
               "chatgpt",
@@ -1209,7 +1209,7 @@
             "open_issues": 15,
             "owner": "xlang-ai",
             "repo": "OpenAgents",
-            "stars": 4861,
+            "stars": 4860,
             "topics": [
               "agent",
               "assistant-chat-bots",
@@ -1282,7 +1282,7 @@
             "open_issues": 17,
             "owner": "showlab",
             "repo": "ShowUI",
-            "stars": 1894,
+            "stars": 1896,
             "topics": [
               "agent",
               "computer-use",
@@ -1992,7 +1992,7 @@
             "open_issues": 1,
             "owner": "ZJU-REAL",
             "repo": "GUI-RCPO",
-            "stars": 69,
+            "stars": 70,
             "topics": [
               "gui-agents",
               "ttrl"
@@ -2151,7 +2151,7 @@
             "open_issues": 3,
             "owner": "PhoneLLM",
             "repo": "Awesome-LLM-Powered-Phone-GUI-Agents",
-            "stars": 180,
+            "stars": 181,
             "topics": []
           },
           "first_seen": "2026-08-28T07:02:29.905Z"
@@ -2174,11 +2174,11 @@
             "id": 614765452,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T01:08:04Z",
-            "open_issues": 536,
+            "last_commit": "2026-09-03T01:10:00Z",
+            "open_issues": 539,
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 187065,
+            "stars": 187087,
             "topics": [
               "agentic-ai",
               "agents",
@@ -2211,7 +2211,7 @@
             "open_issues": 10,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68220,
+            "stars": 68222,
             "topics": [
               "acp",
               "coding-agent",
@@ -2239,7 +2239,7 @@
             "open_issues": 88,
             "owner": "wandb",
             "repo": "openui",
-            "stars": 22531,
+            "stars": 22533,
             "topics": [
               "ai",
               "generative-ai",
@@ -2449,13 +2449,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Compiles a demonstrated GUI task into a program that reports VERIFIED only if an independent check agrees. pip install openadapt; openadapt quickstart. Compiler lives in openadapt-flow.",
+            "description": "Compiles a demonstrated GUI task into a program that reports VERIFIED only if an independent check agrees. pip install openadapt; openadapt flow tutorial. Compiler lives in openadapt-flow.",
             "homepage": "https://openadapt.ai",
             "id": 627024850,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T22:58:37Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-02T19:24:05Z",
+            "open_issues": 6,
             "owner": "OpenAdaptAI",
             "repo": "OpenAdapt",
             "stars": 1710,
@@ -2755,7 +2755,7 @@
             "open_issues": 72,
             "owner": "hyp1231",
             "repo": "awesome-llm-powered-agent",
-            "stars": 2255,
+            "stars": 2254,
             "topics": [
               "awesome-list",
               "chatgpt",
@@ -2866,7 +2866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T01:17:03.373Z",
+    "last_updated": "2026-09-03T01:22:07.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "💻 A curated list of papers and resources for multi-modal Graphical User Interface (GUI) agents.",
