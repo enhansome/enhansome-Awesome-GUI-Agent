@@ -56,7 +56,7 @@
         {
           "node_type": "item",
           "title": "WebWalker: Benchmarking LLMs in Web Traversal",
-          "description": null,
+          "description": "Alibaba-NLP/DeepResearch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -213,7 +213,7 @@
         {
           "node_type": "item",
           "title": "Windows Agent Arena",
-          "description": null,
+          "description": "microsoft/WindowsAgentArena",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -303,7 +303,7 @@
         {
           "node_type": "item",
           "title": "ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use",
-          "description": null,
+          "description": "likaixin2000/ScreenSpot-Pro-GUI-Grounding",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -831,7 +831,7 @@
         {
           "node_type": "item",
           "title": "AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents",
-          "description": null,
+          "description": "YuxiangChai/AMEX-codebase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1004,7 +1004,7 @@
             "open_issues": 53,
             "owner": "simular-ai",
             "repo": "Agent-S",
-            "stars": 12504,
+            "stars": 12506,
             "topics": [
               "agent-computer-interface",
               "ai-agents",
@@ -1067,7 +1067,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9269,
+            "stars": 9272,
             "topics": [
               "agent",
               "android",
@@ -1101,7 +1101,7 @@
             "open_issues": 8,
             "owner": "apple-aiml-research",
             "repo": "ml-ferret",
-            "stars": 8658,
+            "stars": 8657,
             "topics": []
           },
           "first_seen": "2026-08-28T07:02:29.905Z"
@@ -1386,7 +1386,7 @@
         {
           "node_type": "item",
           "title": "WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models",
-          "description": null,
+          "description": "MinorJerry/WebVoyager",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2165,7 +2165,7 @@
         {
           "node_type": "item",
           "title": "Auto-GPT",
-          "description": null,
+          "description": "Significant-Gravitas/AutoGPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2174,11 +2174,11 @@
             "id": 614765452,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T02:13:37Z",
+            "last_commit": "2026-10-03T04:22:52Z",
             "open_issues": 595,
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 187639,
+            "stars": 187641,
             "topics": [
               "agentic-ai",
               "agents",
@@ -2198,7 +2198,7 @@
         {
           "node_type": "item",
           "title": "Open Interpreter",
-          "description": null,
+          "description": "openinterpreter/openinterpreter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2211,7 +2211,7 @@
             "open_issues": 11,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68492,
+            "stars": 68494,
             "topics": [
               "acp",
               "coding-agent",
@@ -2227,7 +2227,7 @@
         {
           "node_type": "item",
           "title": "OpenUI",
-          "description": null,
+          "description": "wandb/openui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2237,7 +2237,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T06:14:43Z",
-            "open_issues": 87,
+            "open_issues": 88,
             "owner": "wandb",
             "repo": "openui",
             "stars": 22573,
@@ -2253,7 +2253,7 @@
         {
           "node_type": "item",
           "title": "PyAutoGUI",
-          "description": null,
+          "description": "asweigart/pyautogui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2266,7 +2266,7 @@
             "open_issues": 584,
             "owner": "asweigart",
             "repo": "pyautogui",
-            "stars": 12725,
+            "stars": 12724,
             "topics": []
           },
           "first_seen": "2026-08-28T07:02:29.905Z"
@@ -2274,7 +2274,7 @@
         {
           "node_type": "item",
           "title": "Mobile-Agent: The Powerful Mobile Device Operation Assistant Family",
-          "description": null,
+          "description": "X-PLUG/MobileAgent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2287,7 +2287,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9269,
+            "stars": 9272,
             "topics": [
               "agent",
               "android",
@@ -2308,7 +2308,7 @@
         {
           "node_type": "item",
           "title": "gpt-computer-assistant",
-          "description": null,
+          "description": "Upsonic/Upsonic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2321,7 +2321,7 @@
             "open_issues": 34,
             "owner": "Upsonic",
             "repo": "Upsonic",
-            "stars": 7957,
+            "stars": 7956,
             "topics": [
               "agent",
               "agent-framework",
@@ -2345,7 +2345,7 @@
         {
           "node_type": "item",
           "title": "LaVague: Large Action Model Framework to Develop AI Web Agents",
-          "description": null,
+          "description": "lavague-ai/LaVague",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2373,7 +2373,7 @@
         {
           "node_type": "item",
           "title": "nut.js",
-          "description": null,
+          "description": "nut-tree/nut.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2404,7 +2404,7 @@
         {
           "node_type": "item",
           "title": "Computer Use Out-of-the-box",
-          "description": null,
+          "description": "showlab/computer_use_ootb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2425,7 +2425,7 @@
         {
           "node_type": "item",
           "title": "NatBot",
-          "description": null,
+          "description": "nat/natbot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2446,7 +2446,7 @@
         {
           "node_type": "item",
           "title": "OpenAdapt: AI-First Process Automation with Large Multimodal Models",
-          "description": null,
+          "description": "OpenAdaptAI/OpenAdapt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2485,7 +2485,7 @@
         {
           "node_type": "item",
           "title": "WebLlama",
-          "description": null,
+          "description": "McGill-NLP/webllama",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2506,7 +2506,7 @@
         {
           "node_type": "item",
           "title": "GPT-4V-Act: AI agent using GPT-4V(ision) for web UI interaction",
-          "description": null,
+          "description": "ddupont808/GPT-4V-Act",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2527,7 +2527,7 @@
         {
           "node_type": "item",
           "title": "Surfkit: A toolkit for building and sharing AI agents that operate on devices",
-          "description": null,
+          "description": "agentsea/surfkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2553,7 +2553,7 @@
         {
           "node_type": "item",
           "title": "AGI Computer Control",
-          "description": null,
+          "description": "James4Ever0/agi_computer_control",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2582,7 +2582,7 @@
         {
           "node_type": "item",
           "title": "WebMarker: Mark web pages for use with vision-language models",
-          "description": null,
+          "description": "reidbarber/webmarker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2626,7 +2626,7 @@
         {
           "node_type": "item",
           "title": "Adversarial Attacks on Multimodal Agents",
-          "description": null,
+          "description": "ChenWu98/agent-attack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2653,7 +2653,7 @@
         {
           "node_type": "item",
           "title": "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents",
-          "description": null,
+          "description": "OSU-NLP-Group/WebDreamer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2674,7 +2674,7 @@
         {
           "node_type": "item",
           "title": "EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage",
-          "description": null,
+          "description": "OSU-NLP-Group/EIA_against_webagent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2695,7 +2695,7 @@
         {
           "node_type": "item",
           "title": "MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control",
-          "description": null,
+          "description": "jylee425/mobilesafetybench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2716,7 +2716,7 @@
         {
           "node_type": "item",
           "title": "AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents",
-          "description": null,
+          "description": "AI-secure/AdvAgent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2743,7 +2743,7 @@
         {
           "node_type": "item",
           "title": "awesome-llm-powered-agent",
-          "description": null,
+          "description": "hyp1231/awesome-llm-powered-agent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2781,7 +2781,7 @@
         {
           "node_type": "item",
           "title": "Awesome GUI Agent Paper List",
-          "description": null,
+          "description": "OSU-NLP-Group/GUI-Agents-Paper-List",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2802,7 +2802,7 @@
         {
           "node_type": "item",
           "title": "awesome-ui-agents",
-          "description": null,
+          "description": "opendilab/awesome-ui-agents",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2823,7 +2823,7 @@
         {
           "node_type": "item",
           "title": "Awesome-LLM-based-Web-Agent-and-Tools",
-          "description": null,
+          "description": "chenzixuan99/Awesome-LLM-based-Web-Agent-and-Tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2844,7 +2844,7 @@
         {
           "node_type": "item",
           "title": "computer-control-agent-knowledge-base",
-          "description": null,
+          "description": "James4Ever0/computer_control_agent_knowledge_base",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2867,7 +2867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:16:02.634Z",
+    "last_updated": "2026-10-03T04:25:07.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "💻 A curated list of papers and resources for multi-modal Graphical User Interface (GUI) agents.",
@@ -2879,7 +2879,7 @@
       "open_issues": 14,
       "owner": "showlab",
       "repo": "Awesome-GUI-Agent",
-      "stars": 1214,
+      "stars": 1215,
       "topics": [
         "ai-assistant",
         "awesome",
